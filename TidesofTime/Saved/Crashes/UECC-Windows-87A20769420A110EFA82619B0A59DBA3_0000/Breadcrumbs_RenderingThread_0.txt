@@ -1,0 +1,5 @@
+Breadcrumbs 'RenderingThread'
+Context 1/2
+	00 Scene
+	01 LumenSceneUpdate: 68 card captures 0.037M texels
+	02 MeshCardCapture Pages:68 Draws:488 Instances:488 Tris:218184

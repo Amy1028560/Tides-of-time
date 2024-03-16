@@ -1,0 +1,6 @@
+2024/03/16-13:29:55.639 7404 Creating DB C:/Users/sneep/OneDrive/Desktop/Tides of Time/TidesofTime/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/03/16-13:29:55.650 7404 Reusing MANIFEST C:/Users/sneep/OneDrive/Desktop/Tides of Time/TidesofTime/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/16-16:25:34.351 6590 Level-0 table #5: started
+2024/03/16-16:25:34.366 6590 Level-0 table #5: 1211 bytes OK
+2024/03/16-16:25:34.367 6590 Delete type=0 #3
+2024/03/16-16:25:34.368 6590 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
