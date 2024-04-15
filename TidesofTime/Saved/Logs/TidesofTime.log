@@ -2361,3 +2361,328 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.15-11.11.16:146][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 282 ms (total: 6.96 sec)
 [2024.04.15-11.11.16:154][870]AssetCheck: New page: Asset Save: FirstOcean
 [2024.04.15-11.11.16:154][870]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstOcean/FirstOcean.FirstOcean
+[2024.04.15-11.28.04:537][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2024.04.15-11.28.06:552][218]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-11.28.06:565][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-11.28.06:565][218]PIE: New page: PIE session: FirstOcean (16 Apr 2024, 7:28:06 am)
+[2024.04.15-11.28.06:565][218]LogPlayLevel: Creating play world package: /Game/FirstOcean/UEDPIE_0_FirstOcean
+[2024.04.15-11.28.06:612][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047323s)
+[2024.04.15-11.28.06:612][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstOcean/FirstOcean.FirstOcean to /Game/FirstOcean/UEDPIE_0_FirstOcean.FirstOcean (0.047389s)
+[2024.04.15-11.28.06:630][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.04.15-11.28.06:632][218]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-11.28.06:632][218]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-11.28.06:633][218]LogAIModule: Creating AISystem for world FirstOcean
+[2024.04.15-11.28.06:633][218]LogPlayLevel: PIE: World Init took: (0.001554s)
+[2024.04.15-11.28.06:633][218]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.04.15-11.28.06:633][218]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-11.28.06:634][218]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-11.28.06:634][218]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-11.28.06:634][218]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-11.28.06:634][218]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-11.28.06:634][218]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-11.28.06:634][218]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-11.28.06:634][218]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-11.28.06:634][218]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-11.28.06:634][218]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-11.28.06:634][218]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-11.28.06:638][218]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-11.28.06:706][218]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-11.28.06:707][218]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-11.28.06:707][218]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-11.28.06:707][218]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-11.28.06:709][218]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.04.15-11.28.06:709][218]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.04.15-11.28.06:712][218]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.04.15-11.28.06:712][218]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.04.15-11.28.06:712][218]LogInit: FAudioDevice initialized with ID 13.
+[2024.04.15-11.28.06:712][218]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstOcean'.
+[2024.04.15-11.28.06:712][218]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.15-11.28.06:714][218]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-11.28.06:719][218]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_FirstOcean.FirstOcean up for play (max tick rate 60) at 2024.04.15-21.28.06
+[2024.04.15-11.28.06:719][218]LogWorld: Bringing up level for play took: 0.004718
+[2024.04.15-11.28.06:724][218]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.04.15-11.28.06:731][218]LogTemp: BP_DrawingBoard_Snow_C_0 Registered
+[2024.04.15-11.28.06:731][218]LogTemp: foot_l Registered
+[2024.04.15-11.28.06:731][218]LogTemp: Foot_L1 Registered
+[2024.04.15-11.28.06:732][218]PIE: Server logged in
+[2024.04.15-11.28.06:733][218]PIE: Play in editor total start time 0.168 seconds.
+[2024.04.15-11.29.47:091][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-11.29.47:091][496]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_FirstOcean
+[2024.04.15-11.29.47:091][496]LogTemp: BP_DrawingBoard_Snow_C_0 UnRegistered
+[2024.04.15-11.29.47:091][496]LogTemp: foot_l UnRegistered
+[2024.04.15-11.29.47:091][496]LogTemp: Foot_L1 UnRegistered
+[2024.04.15-11.29.47:091][496]LogWorld: UWorld::CleanupWorld for FirstOcean, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-11.29.47:092][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-11.29.47:097][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-11.29.47:104][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-11.29.47:125][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-11.29.47:127][496]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.15-11.29.47:127][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.15-11.29.47:130][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.15-11.29.47:144][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.04.15-11.29.47:308][497]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.04.15-11.29.48:792][563]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-11.29.48:804][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-11.29.48:804][563]PIE: New page: PIE session: FirstOcean (16 Apr 2024, 7:29:48 am)
+[2024.04.15-11.29.48:804][563]LogPlayLevel: Creating play world package: /Game/FirstOcean/UEDPIE_0_FirstOcean
+[2024.04.15-11.29.48:855][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051463s)
+[2024.04.15-11.29.48:855][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstOcean/FirstOcean.FirstOcean to /Game/FirstOcean/UEDPIE_0_FirstOcean.FirstOcean (0.051532s)
+[2024.04.15-11.29.48:878][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.04.15-11.29.48:883][563]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-11.29.48:884][563]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-11.29.48:884][563]LogAIModule: Creating AISystem for world FirstOcean
+[2024.04.15-11.29.48:885][563]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2024.04.15-11.29.48:885][563]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.04.15-11.29.48:885][563]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-11.29.48:885][563]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-11.29.48:885][563]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-11.29.48:885][563]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-11.29.48:885][563]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-11.29.48:885][563]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-11.29.48:885][563]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-11.29.48:885][563]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-11.29.48:886][563]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-11.29.48:886][563]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-11.29.48:886][563]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-11.29.48:889][563]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-11.29.48:958][563]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-11.29.48:958][563]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-11.29.48:958][563]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-11.29.48:958][563]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-11.29.48:959][563]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.04.15-11.29.48:959][563]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.04.15-11.29.48:963][563]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.04.15-11.29.48:963][563]LogInit: FAudioDevice initialized with ID 14.
+[2024.04.15-11.29.48:963][563]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.04.15-11.29.48:963][563]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstOcean'.
+[2024.04.15-11.29.48:963][563]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.15-11.29.48:966][563]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-11.29.48:971][563]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_FirstOcean.FirstOcean up for play (max tick rate 60) at 2024.04.15-21.29.48
+[2024.04.15-11.29.48:971][563]LogWorld: Bringing up level for play took: 0.004737
+[2024.04.15-11.29.48:975][563]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.04.15-11.29.48:981][563]LogTemp: BP_DrawingBoard_Snow_C_0 Registered
+[2024.04.15-11.29.48:982][563]LogTemp: foot_l Registered
+[2024.04.15-11.29.48:982][563]LogTemp: Foot_L1 Registered
+[2024.04.15-11.29.48:982][563]PIE: Server logged in
+[2024.04.15-11.29.48:983][563]PIE: Play in editor total start time 0.18 seconds.
+[2024.04.15-11.30.29:278][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-11.30.29:278][630]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_FirstOcean
+[2024.04.15-11.30.29:279][630]LogTemp: BP_DrawingBoard_Snow_C_0 UnRegistered
+[2024.04.15-11.30.29:279][630]LogTemp: foot_l UnRegistered
+[2024.04.15-11.30.29:279][630]LogTemp: Foot_L1 UnRegistered
+[2024.04.15-11.30.29:279][630]LogWorld: UWorld::CleanupWorld for FirstOcean, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-11.30.29:280][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-11.30.29:287][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-11.30.29:294][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-11.30.29:313][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-11.30.29:314][630]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.15-11.30.29:314][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.15-11.30.29:318][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.15-11.30.29:332][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.04.15-11.30.29:484][631]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.04.15-11.55.14:149][218]LogDerivedDataCache: C:/Users/sneep/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:19.335 and deleted 0 files with total size 0 MiB and 50 empty folders. Scanned 41031 files in 42102 folders with total size 2481 MiB.
+[2024.04.15-11.56.18:400][465]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-11.56.18:414][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-11.56.18:414][465]PIE: New page: PIE session: FirstOcean (16 Apr 2024, 7:56:18 am)
+[2024.04.15-11.56.18:414][465]LogPlayLevel: Creating play world package: /Game/FirstOcean/UEDPIE_0_FirstOcean
+[2024.04.15-11.56.18:461][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047663s)
+[2024.04.15-11.56.18:461][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstOcean/FirstOcean.FirstOcean to /Game/FirstOcean/UEDPIE_0_FirstOcean.FirstOcean (0.047744s)
+[2024.04.15-11.56.18:486][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2024.04.15-11.56.18:490][465]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-11.56.18:491][465]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-11.56.18:492][465]LogAIModule: Creating AISystem for world FirstOcean
+[2024.04.15-11.56.18:492][465]LogPlayLevel: PIE: World Init took: (0.001811s)
+[2024.04.15-11.56.18:492][465]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.04.15-11.56.18:492][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-11.56.18:492][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-11.56.18:492][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-11.56.18:492][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-11.56.18:492][465]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-11.56.18:492][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-11.56.18:493][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-11.56.18:493][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-11.56.18:493][465]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-11.56.18:493][465]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-11.56.18:493][465]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-11.56.18:496][465]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-11.56.18:573][465]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-11.56.18:574][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-11.56.18:574][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-11.56.18:574][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-11.56.18:574][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.04.15-11.56.18:574][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.04.15-11.56.18:579][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.04.15-11.56.18:580][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.04.15-11.56.18:580][465]LogInit: FAudioDevice initialized with ID 15.
+[2024.04.15-11.56.18:580][465]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstOcean'.
+[2024.04.15-11.56.18:580][465]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.15-11.56.18:582][465]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-11.56.18:587][465]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_FirstOcean.FirstOcean up for play (max tick rate 60) at 2024.04.15-21.56.18
+[2024.04.15-11.56.18:588][465]LogWorld: Bringing up level for play took: 0.005378
+[2024.04.15-11.56.18:592][465]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.04.15-11.56.18:602][465]LogTemp: BP_DrawingBoard_Snow_C_0 Registered
+[2024.04.15-11.56.18:602][465]LogTemp: foot_l Registered
+[2024.04.15-11.56.18:603][465]LogTemp: Foot_L1 Registered
+[2024.04.15-11.56.18:603][465]PIE: Server logged in
+[2024.04.15-11.56.18:604][465]PIE: Play in editor total start time 0.19 seconds.
+[2024.04.15-11.56.56:647][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-11.56.56:647][459]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_FirstOcean
+[2024.04.15-11.56.56:647][459]LogTemp: BP_DrawingBoard_Snow_C_0 UnRegistered
+[2024.04.15-11.56.56:647][459]LogTemp: foot_l UnRegistered
+[2024.04.15-11.56.56:647][459]LogTemp: Foot_L1 UnRegistered
+[2024.04.15-11.56.56:647][459]LogWorld: UWorld::CleanupWorld for FirstOcean, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-11.56.56:648][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-11.56.56:653][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-11.56.56:659][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-11.56.56:681][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-11.56.56:683][459]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.15-11.56.56:683][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.15-11.56.56:689][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.15-11.56.56:712][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.04.15-11.56.56:873][460]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.04.15-12.30.06:932][545]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-12.30.06:946][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-12.30.06:946][545]PIE: New page: PIE session: FirstOcean (16 Apr 2024, 8:30:06 am)
+[2024.04.15-12.30.06:946][545]LogPlayLevel: Creating play world package: /Game/FirstOcean/UEDPIE_0_FirstOcean
+[2024.04.15-12.30.06:999][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052703s)
+[2024.04.15-12.30.06:999][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstOcean/FirstOcean.FirstOcean to /Game/FirstOcean/UEDPIE_0_FirstOcean.FirstOcean (0.052819s)
+[2024.04.15-12.30.07:033][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2024.04.15-12.30.07:042][545]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-12.30.07:042][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-12.30.07:043][545]LogAIModule: Creating AISystem for world FirstOcean
+[2024.04.15-12.30.07:044][545]LogPlayLevel: PIE: World Init took: (0.002121s)
+[2024.04.15-12.30.07:044][545]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.04.15-12.30.07:044][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-12.30.07:044][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-12.30.07:044][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-12.30.07:044][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-12.30.07:044][545]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-12.30.07:044][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-12.30.07:044][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-12.30.07:044][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-12.30.07:045][545]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-12.30.07:045][545]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-12.30.07:045][545]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-12.30.07:048][545]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-12.30.07:125][545]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-12.30.07:126][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-12.30.07:126][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-12.30.07:126][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-12.30.07:129][545]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.04.15-12.30.07:129][545]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.04.15-12.30.07:132][545]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.04.15-12.30.07:132][545]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.04.15-12.30.07:132][545]LogInit: FAudioDevice initialized with ID 16.
+[2024.04.15-12.30.07:132][545]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstOcean'.
+[2024.04.15-12.30.07:132][545]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.15-12.30.07:137][545]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-12.30.07:144][545]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_FirstOcean.FirstOcean up for play (max tick rate 60) at 2024.04.15-22.30.07
+[2024.04.15-12.30.07:144][545]LogWorld: Bringing up level for play took: 0.006822
+[2024.04.15-12.30.07:149][545]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.04.15-12.30.07:161][545]LogTemp: BP_DrawingBoard_Snow_C_0 Registered
+[2024.04.15-12.30.07:162][545]LogTemp: foot_l Registered
+[2024.04.15-12.30.07:162][545]LogTemp: Foot_L1 Registered
+[2024.04.15-12.30.07:162][545]PIE: Server logged in
+[2024.04.15-12.30.07:163][545]PIE: Play in editor total start time 0.217 seconds.
+[2024.04.15-12.30.27:197][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-12.30.27:197][549]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_FirstOcean
+[2024.04.15-12.30.27:197][549]LogTemp: BP_DrawingBoard_Snow_C_0 UnRegistered
+[2024.04.15-12.30.27:197][549]LogTemp: foot_l UnRegistered
+[2024.04.15-12.30.27:197][549]LogTemp: Foot_L1 UnRegistered
+[2024.04.15-12.30.27:197][549]LogWorld: UWorld::CleanupWorld for FirstOcean, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-12.30.27:198][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-12.30.27:208][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-12.30.27:215][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-12.30.27:232][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-12.30.27:233][549]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.15-12.30.27:234][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.15-12.30.27:250][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.15-12.30.27:276][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.04.15-12.30.27:455][550]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.04.15-12.40.14:315][407]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.15-12.55.14:323][105]LogDerivedDataCache: C:/Users/sneep/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:19.508 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 41031 files in 42052 folders with total size 2481 MiB.
+[2024.04.15-13.52.42:226][568]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Plants/Seaweed_sdokF/S_Seaweed_sdokF_Var1_lod1.S_Seaweed_sdokF_Var1_lod1
+[2024.04.15-13.52.42:227][568]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Plants/Seaweed_sdokF/S_Seaweed_sdokF_Var1_lod1.S_Seaweed_sdokF_Var1_lod1
+[2024.04.15-13.52.42:230][568]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Plants/Seaweed_sdokF/S_Seaweed_sdokF_Var1_lod1.S_Seaweed_sdokF_Var1_lod1 as actor: StaticMeshActor /Game/FirstOcean/FirstOcean.FirstOcean:PersistentLevel.StaticMeshActor_19
+[2024.04.15-13.52.43:900][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Plants/Seaweed_sdokF/S_Seaweed_sdokF_Var1_lod1.S_Seaweed_sdokF_Var1_lod1
+[2024.04.15-13.52.43:901][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Plants/Seaweed_sdokF/S_Seaweed_sdokF_Var1_lod1.S_Seaweed_sdokF_Var1_lod1
+[2024.04.15-13.52.43:905][630]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Plants/Seaweed_sdokF/S_Seaweed_sdokF_Var1_lod1.S_Seaweed_sdokF_Var1_lod1 as actor: StaticMeshActor /Game/FirstOcean/FirstOcean.FirstOcean:PersistentLevel.StaticMeshActor_20
+[2024.04.15-13.52.54:716][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Plants/Seaweed_sdokF/S_Seaweed_sdokF_Var3_lod1.S_Seaweed_sdokF_Var3_lod1
+[2024.04.15-13.52.54:716][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Plants/Seaweed_sdokF/S_Seaweed_sdokF_Var3_lod1.S_Seaweed_sdokF_Var3_lod1
+[2024.04.15-13.52.54:718][124]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Plants/Seaweed_sdokF/S_Seaweed_sdokF_Var3_lod1.S_Seaweed_sdokF_Var3_lod1 as actor: StaticMeshActor /Game/FirstOcean/FirstOcean.FirstOcean:PersistentLevel.StaticMeshActor_21
+[2024.04.15-13.52.57:142][201]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Plants/Seaweed_sdokF/S_Seaweed_sdokF_Var3_lod1.S_Seaweed_sdokF_Var3_lod1
+[2024.04.15-13.52.57:142][201]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Plants/Seaweed_sdokF/S_Seaweed_sdokF_Var3_lod1.S_Seaweed_sdokF_Var3_lod1
+[2024.04.15-13.52.57:144][201]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Plants/Seaweed_sdokF/S_Seaweed_sdokF_Var3_lod1.S_Seaweed_sdokF_Var3_lod1 as actor: StaticMeshActor /Game/FirstOcean/FirstOcean.FirstOcean:PersistentLevel.StaticMeshActor_22
+[2024.04.15-13.53.03:112][509]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-13.53.03:126][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-13.53.03:126][509]PIE: New page: PIE session: FirstOcean (16 Apr 2024, 9:53:03 am)
+[2024.04.15-13.53.03:126][509]LogPlayLevel: Creating play world package: /Game/FirstOcean/UEDPIE_0_FirstOcean
+[2024.04.15-13.53.03:192][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065174s)
+[2024.04.15-13.53.03:193][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstOcean/FirstOcean.FirstOcean to /Game/FirstOcean/UEDPIE_0_FirstOcean.FirstOcean (0.065529s)
+[2024.04.15-13.53.03:272][509]LogUObjectHash: Compacting FUObjectHashTables data took  11.70ms
+[2024.04.15-13.53.03:282][509]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-13.53.03:282][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-13.53.03:283][509]LogAIModule: Creating AISystem for world FirstOcean
+[2024.04.15-13.53.03:284][509]LogPlayLevel: PIE: World Init took: (0.002623s)
+[2024.04.15-13.53.03:284][509]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.04.15-13.53.03:284][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-13.53.03:284][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-13.53.03:284][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-13.53.03:285][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-13.53.03:285][509]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-13.53.03:285][509]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-13.53.03:285][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-13.53.03:285][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-13.53.03:285][509]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-13.53.03:285][509]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-13.53.03:285][509]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-13.53.03:289][509]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-13.53.03:398][509]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-13.53.03:405][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-13.53.03:405][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-13.53.03:405][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-13.53.03:415][509]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.04.15-13.53.03:415][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.04.15-13.53.03:420][509]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.04.15-13.53.03:420][509]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.04.15-13.53.03:420][509]LogInit: FAudioDevice initialized with ID 17.
+[2024.04.15-13.53.03:420][509]LogAudio: Display: Audio Device (ID: 17) registered with world 'FirstOcean'.
+[2024.04.15-13.53.03:420][509]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.15-13.53.03:436][509]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-13.53.03:442][509]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_FirstOcean.FirstOcean up for play (max tick rate 60) at 2024.04.15-23.53.03
+[2024.04.15-13.53.03:443][509]LogWorld: Bringing up level for play took: 0.006346
+[2024.04.15-13.53.03:450][509]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.04.15-13.53.03:475][509]LogTemp: BP_DrawingBoard_Snow_C_0 Registered
+[2024.04.15-13.53.03:476][509]LogTemp: foot_l Registered
+[2024.04.15-13.53.03:476][509]LogTemp: Foot_L1 Registered
+[2024.04.15-13.53.03:477][509]PIE: Server logged in
+[2024.04.15-13.53.03:478][509]PIE: Play in editor total start time 0.353 seconds.
+[2024.04.15-13.53.32:777][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-13.53.32:777][ 67]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_FirstOcean
+[2024.04.15-13.53.32:778][ 67]LogTemp: BP_DrawingBoard_Snow_C_0 UnRegistered
+[2024.04.15-13.53.32:778][ 67]LogTemp: foot_l UnRegistered
+[2024.04.15-13.53.32:778][ 67]LogTemp: Foot_L1 UnRegistered
+[2024.04.15-13.53.32:778][ 67]LogWorld: UWorld::CleanupWorld for FirstOcean, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-13.53.32:779][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-13.53.32:786][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-13.53.32:793][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-13.53.32:816][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-13.53.32:817][ 67]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.15-13.53.32:818][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.15-13.53.32:825][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.15-13.53.32:849][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2024.04.15-13.53.33:013][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.04.15-13.53.38:320][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.04.15-13.53.38:334][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-13.53.38:506][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.15-13.53.38:509][316]LogLandscape: UpdateNaniteRepresentationAsync actor: 'Landscape' package:'/Game/FirstOcean/FirstOcean' dirty:0 component guid:'9589678F533C1C3C1FEE4F89D3F1CD4C' proxy guid:'9589678F533C1C3C1FEE4F89D3F1CD4C'
+[2024.04.15-13.53.38:509][316]LogLandscape: UpdateNaniteRepresentationAsync actor: 'Landscape' package:'/Game/FirstOcean/FirstOcean' dirty:0 component guid:'9589678F533C1C3C1FEE4F89D3F1CD4C' proxy guid:'9589678F533C1C3C1FEE4F89D3F1CD4C'
+[2024.04.15-13.53.38:509][316]LogLandscape: Display: UpdateNaniteRepresentation proxy:000009FD22779A00 target platform:0000000000000000 subsystem:000009FD2182E000
+[2024.04.15-13.53.38:591][316]LogLandscape: Display: InitializePlatformForLandscape 'Landscape' package:'/Game/FirstOcean/FirstOcean'
+[2024.04.15-13.53.38:591][316]LogLandscape: Display: InitializePlatformForLandscape 'Landscape' package:'/Game/FirstOcean/FirstOcean'
+[2024.04.15-13.53.38:733][316]LogSavePackage: Moving output files for package: /Game/FirstOcean/FirstOcean
+[2024.04.15-13.53.38:736][316]LogSavePackage: Moving 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/FirstOcean5483F05F40305EEDBFA2D6BBFB7F9E3E.tmp' to 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/FirstOcean/FirstOcean.umap'
+[2024.04.15-13.53.38:757][316]LogFileHelpers: Saving map 'FirstOcean' took 0.343
+[2024.04.15-13.53.38:783][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 449 ms (total: 7.41 sec)
+[2024.04.15-13.53.38:796][316]AssetCheck: New page: Asset Save: FirstOcean
+[2024.04.15-13.53.38:796][316]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstOcean/FirstOcean.FirstOcean
