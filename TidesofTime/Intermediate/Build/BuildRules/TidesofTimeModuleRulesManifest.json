@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\sneep\\OneDrive\\Desktop\\oceans\\Tides-of-time\\TidesofTime\\Intermediate\\Source\\TidesofTime.Build.cs",
+		"C:\\Users\\sneep\\OneDrive\\Desktop\\oceans\\Tides-of-time\\TidesofTime\\Intermediate\\Source\\TidesofTime.Target.cs",
+		"C:\\Users\\sneep\\OneDrive\\Desktop\\oceans\\Tides-of-time\\TidesofTime\\Intermediate\\Source\\TidesofTimeClient.Target.cs",
+		"C:\\Users\\sneep\\OneDrive\\Desktop\\oceans\\Tides-of-time\\TidesofTime\\Intermediate\\Source\\TidesofTimeEditor.Target.cs",
+		"C:\\Users\\sneep\\OneDrive\\Desktop\\oceans\\Tides-of-time\\TidesofTime\\Intermediate\\Source\\TidesofTimeServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

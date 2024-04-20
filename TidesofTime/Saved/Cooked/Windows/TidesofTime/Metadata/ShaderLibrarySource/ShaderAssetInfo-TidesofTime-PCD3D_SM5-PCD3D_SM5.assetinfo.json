@@ -1,0 +1,1002 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "B52E1F00CCAED807C15A9AFC0F76A287B1CC8E00",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "BFC2020112554820F44804D9A19E3890064916E2",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "FB0528013105C847F2F97AFDC8C306EC02BE0B50",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Transmission_Material/M_MS_Default_Transmission_Material",
+				"/Game/MSPresets/M_MS_Default_Transmission_Material_VT/M_MS_Default_Transmission_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "E887E2014001CC1284960B18E957C69EA9AE23FB",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9B5F1205A792DB0D2E63E352DED5402A5C6B1241",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "DAA16F0712DC83866081B2AE5B58EBA8C1B0AA91",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "583E3F09DA130AB2150236D4F6D187879634780A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "876A8509ADF6983AB6127289CBBB7B94B128028C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0B04B40E49BD5E920A5D27E53A91106ABB3C8987",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "58B1C50E2263C3F7A093B4636964549D4751AE2E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "09DD210F318F878C16632C41C43EB458C906A0F7",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material",
+				"/Game/MSPresets/M_MS_Default_Material_VT/M_MS_Default_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "E53822107D4B84AFFD1523F45AEA70A022920F46",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Meshes/Rocks/Materials/MI_LongRock_01"
+			]
+		},
+		{
+			"ShaderMapHash": "F054F611C1D0DB0CF5E64624CDB40F0305465073",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5CD90E1218FE2BC26E44705469763671EB05FDCD",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CEFB48128FF01D3C079FDA728288E4D700BB3D28",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "45117E129E945BEC8F0D07C53908870B257ECF8D",
+			"Assets": [
+				"/Game/Characters/Material_002"
+			]
+		},
+		{
+			"ShaderMapHash": "EB757614310D885A7CD7EF15B3B6F811421051EE",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/StylizedWaterComponent/Materials/M_WaterVolume_Preview"
+			]
+		},
+		{
+			"ShaderMapHash": "62495B15E2A6DD725D724F87302AEA01A9ADA9BA",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material",
+				"/Game/MSPresets/M_MS_Default_Fuzz_Material_VT/M_MS_Default_Fuzz_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "9D1EC815FCFE026ABCC343AD71D6F5DB7E15C7E3",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "BC4D5118E02591D8E1A822CF71224208F61CFFDA",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "ED3C7F18149F614CCCBAF4C23342728E4306A946",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "C69B8318937794059629BBF48728193E12E69473",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Flowers/Materials/MI_Flowers_01"
+			]
+		},
+		{
+			"ShaderMapHash": "63517E1ADEE04C66B6B271C2E16891B61ED5F04C",
+			"Assets": [
+				"/Game/3D_Models/cambrian-alien-alien-weekly-challenge/source/OPPA"
+			]
+		},
+		{
+			"ShaderMapHash": "0A64201B4A93616DE7542BBE4A9FBBB49A830C13",
+			"Assets": [
+				"/Bridge/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material",
+				"/Game/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "3BB43C1BD1DE8D66FCE4D7F47FA7E493DD8D0038",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "A191811C5DB5991557970E6B9CBEF420916FE415",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "690F911CF32FE4ACF2326FD5C68D0B8ABE7E0EA6",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material",
+				"/Game/MSPresets/M_MS_Surface_Material_VT/M_MS_Surface_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "D80EC81DB243357C08691173CE5D292E65EE1863",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/Materials/MI_Grass_01"
+			]
+		},
+		{
+			"ShaderMapHash": "543B151EEA459900E27CDF080E55C9F563FCE5D4",
+			"Assets": [
+				"/Game/ThirdPerson/Blueprints/M_INVISIBLE"
+			]
+		},
+		{
+			"ShaderMapHash": "E0B72E1E220B4807DCDF1B469A0FB2F77ED1FAAF",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "26130621326E643DE16B1FD5E1507983025B44C7",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C4D07B2414C9797BD73AE78B66B18D488158E767",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material",
+				"/Game/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "8D24DF24D7A48EF9B9313973A777BB18C2402851",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "6B087627966B66EC444186BFB3E28A0A5A44FB81",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "8A440A28073F8FFBA4CE78BC597A0A5503C3EA0A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "355CBB2B1CF9EC8816B876AEDAABE3A4A4BB9560",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/_SharedAssets/Materials/M_Grass_Base",
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/Materials/MI_Grass_01_overview",
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/Materials/MI_Grass_01_overview1",
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/Materials/MI_Grass_01_overview2",
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/Materials/MI_Grass_Tiny_A_overview"
+			]
+		},
+		{
+			"ShaderMapHash": "77A3A82E385E6CB932CCB6ADC60968FDF14BBDC8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "16D8FE2EF233FDCC4B274E69FED8F203150F0D68",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8F0A2B34AB41420EF751D30868EF516D1393342F",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "FED35E374F9EADB4DDCC0DB644C52817081E77E3",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "6034C538A301AB33237CCDAC13B69B8FBFDC83FF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "D98D603CC1050F8226F3AD6B4A0A293C2575E277",
+			"Assets": [
+				"/InteractiveWorld/Materials/DrawingBoardMaterials/CommonSimulateMat/M_RenderPreviousToCurrent"
+			]
+		},
+		{
+			"ShaderMapHash": "4E68E73C213DB8182D32EC6DFED98DEE438DABCB",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ADF9783E451BBD6F426646EA73173D5A3143BC07",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "B42DFD3E6D57209A942B07F157D676BA3EAF29DA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "320CDD401E151F5CC714EE553957578BCA2EBF02",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F4285F415220BEE49EBF065B041B2C8323C02DAA",
+			"Assets": [
+				"/InteractiveWorld/Materials/BrushMaterials/RayTrace/M_RayTracing_Sphere"
+			]
+		},
+		{
+			"ShaderMapHash": "428196425AA220EDA5A5E28ACBD4BF917F63F12F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "7A5190433F0FB1CBF5F1FE2D2F7BE893803E6E27",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "6757B6435A4C515A5514154EA2012391615EEB36",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/_SharedAssets/Materials/M_Plants_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "330CC643A8ED7DA3556727C78310B524B6ED24B4",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "39929646DBD5649A43AB72B500E78C7326430533",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "33A8D147EF0375454C59CA6C643345594E75FFC7",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D6680548DFE49C1A2C69FCA51FBB438448771FBD",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0C3D76498602BF3A7FE5FE1535A5EFAE5A41D45E",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/_SharedAssets/Materials/M_Plants_Base_TangentSpace"
+			]
+		},
+		{
+			"ShaderMapHash": "6A3FFC493DA266F8107865C8CAF6645FAD166E03",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap"
+			]
+		},
+		{
+			"ShaderMapHash": "0033D34A2F4F97C97EA1816078772F0646E9EF89",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "BB3A924BDD9364884A8D02E34CCCDF8E5AC88B0E",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap"
+			]
+		},
+		{
+			"ShaderMapHash": "5F8DD94F78FD4D802642B20F2944BD8B7310A567",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "3C91F64F704FA2C4D0354998700CAD316AFB0CEE",
+			"Assets": [
+				"/Game/FirstOcean/FirstOcean"
+			]
+		},
+		{
+			"ShaderMapHash": "17896B529BD23483E5A767084E8B1F25D67AC3D3",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Materials/MI_BananaLeaf_01",
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Materials/MI_Palm_A_Leaf_01",
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Materials/MI_Palm_B_Leaf_01"
+			]
+		},
+		{
+			"ShaderMapHash": "AB4F33540B4ACAFC5A7B5999D22E66B5814124D5",
+			"Assets": [
+				"/InteractiveWorld/Materials/DrawingBoardMaterials/SnowSimulateMaterials/SimulateMaterials/M_RT_DrawEdge"
+			]
+		},
+		{
+			"ShaderMapHash": "F3F16F580CCD0648A6CBAB1128925B2B2928062D",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3A1D6C5DAC87D069998CC547944C86557958BFD3",
+			"Assets": [
+				"/Game/Characters/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "8D6B865DD2C18BBC3A6E45246F60D17EA8631EF8",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap"
+			]
+		},
+		{
+			"ShaderMapHash": "E878EE5F222061A7EE5BE8367D74403772E9253E",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Meshes/Rocks/Materials/MI_Rock_01_A",
+				"/Game/LUSH_StylizedEnvironmentSet/Meshes/Rocks/Materials/MI_Rock_01_B",
+				"/Game/LUSH_StylizedEnvironmentSet/Meshes/Rocks/Materials/MI_Rock_02_A",
+				"/Game/LUSH_StylizedEnvironmentSet/Meshes/Rocks/Materials/MI_Rock_03_A"
+			]
+		},
+		{
+			"ShaderMapHash": "CF428467F53C1A48D7954A955853BF56C6C04C31",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap"
+			]
+		},
+		{
+			"ShaderMapHash": "A904E767C40BEFEFD2AF9DA2A5F5CA09DFF28877",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "596722681231C7A74762A1B2CF501C53E42569C3",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EA1F6668874488FCEEDCAA7B7B1F2AB55078A304",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Materials/M_Bark_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "7519EB68C1A62C9F8C08730ADE2F5E3A33D9B3FB",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap"
+			]
+		},
+		{
+			"ShaderMapHash": "FD9D826A181223FFA8973616259762977E852C47",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "D6978C6B3EA504E9AB086CD53637403C1EC28281",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/_SharedAssets/Materials/M_Leaves_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "D0962070D1EFDB2EF2C93743A59B1348A655E422",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "96B030703B088BAEDCA5E8382DA0D8A3B402C1C6",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "D0CAB370B33CE7B7A3D3ED890BAF3FE11FEFAFBC",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "979A4475E0B6772FE78F89F40310043023AB5238",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "7C90F77759D4296B6749FCDD9D4A21A426F4D7F9",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Glass_Material/MI_MS_Glass_Material_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "239FCE79F06C0BE9976135AC0D3B2783BE974F36",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "9D631B7A8B5BB248DF05D029D674AE6F22F111DE",
+			"Assets": [
+				"/Game/3D_Models/lowpoly-coral/source/coral_3"
+			]
+		},
+		{
+			"ShaderMapHash": "49D3FF7B126457D23C44BD8BE5C422C6045DBD70",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "956C0B7C49BEEAFF7AB319D3F29EFDFB03928D4E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C5640D7CF09079AE4ECB38C51A5FB75F45949787",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "3380327DEC480E09C2B3C61A8027D6BABCBD962B",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap"
+			]
+		},
+		{
+			"ShaderMapHash": "0EA1227FF5CE7CF1859E669782B686D5C2EF0693",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "ABFF267F4A5A10C4D79AF096123116690BC088D5",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D3CCAA80366D2A04163B3780E4D99B4C893CF537",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap"
+			]
+		},
+		{
+			"ShaderMapHash": "70F41084DC7274E8BDC9D6CA5F79A8B4A8BA00A5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "57B0C285546628EE695CCEF80C05AA2F5515FAE9",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Materials/M_DemoMannequin_Basic"
+			]
+		},
+		{
+			"ShaderMapHash": "95984C87CFFBD2C6993B25A85B6839CFDBB7F568",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/StylizedWaterComponent/Materials/M_PP_UnderwaterAmbiance_Experimental"
+			]
+		},
+		{
+			"ShaderMapHash": "A772688899B7090AE748F4B80C70EF16B36E8FF8",
+			"Assets": [
+				"/Game/3D_Models/worm-l/source/M_Worm",
+				"/Game/Characters/Worm1"
+			]
+		},
+		{
+			"ShaderMapHash": "D674888DB57FDEEF69631175192661BDE7DBB083",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "AB7F5F918EB9886C8E52123DCC8A045AF8F02874",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D0B27E91A8140BCA61EFE5503623AE0F890A2F05",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "9A805098C42C67B3FA48E9A48F53CADC3E7E5366",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "440ED4980DEEA500D2DC86924A327CCE27EE245C",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AFF4069943148BEDEFB850C29CE2AA9947255EAE",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "D16CA099C33CEFAD6A07A3E41C9D56C392148C22",
+			"Assets": [
+				"/Engine/EditorMaterials/GridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FC39D299DD4B16A2E7E8C06CF7C52B73C2500177",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "ED7A6A9A703D0B0FC087D1397451A2C47100CD7A",
+			"Assets": [
+				"/Game/3D_Models/paradoxides-sp-fossil/source/Material_62"
+			]
+		},
+		{
+			"ShaderMapHash": "FD25059BCC0BF8E1449BC05E29CFBC0B3608C198",
+			"Assets": [
+				"/Game/FirstOcean/M_PlaneArray_Snow"
+			]
+		},
+		{
+			"ShaderMapHash": "82E6DC9C596DD6AAA8C097ED02381484874420E5",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F11F689DB6FF060246CFD7840B1C78967936E600",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "19B2899DEE45FD988F6FBBB468EF53CA489E18FC",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Decal_Material/M_MS_Decal_Material",
+				"/Game/MSPresets/M_MS_Decal_Material_VT/M_MS_Decal_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "7BDC1FA06BE59BF740629282C15475DC3B0B5935",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "92A8C8A0CC5679F75008A95531CB49AEF6084469",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
+			"ShaderMapHash": "533210A191DDE777697662714A8C479C4C8D8B94",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "158915A7DC95C1ED8E4F23B1AE5B192684D6658A",
+			"Assets": [
+				"/Game/Untitled"
+			]
+		},
+		{
+			"ShaderMapHash": "77FF14A95D1C1A958205EE2F478E954EB6C1F273",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Materials/MI_Palm_A_Bark_01",
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Trees/Materials/MI_Palm_B_Bark_01"
+			]
+		},
+		{
+			"ShaderMapHash": "FC6367A92F88E4C98625FB2AE5281105FB070CEA",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "AAF38CA97204AC7D619D10D58EDD7BF2DD570A7B",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/GroundIvy/Materials/MI_GroundIvy",
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Plants/Materials/MI_LilyPad",
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Plants/Materials/MI_Plant_Taro"
+			]
+		},
+		{
+			"ShaderMapHash": "6FA6CBAA94F9932F3956C837B611DDBE8AADBF60",
+			"Assets": [
+				"/Game/3D_Models/material0",
+				"/Game/3D_Models/material1",
+				"/Game/3D_Models/material2",
+				"/Game/Characters/M_anomalocaris",
+				"/Game/Characters/M_Trilobite"
+			]
+		},
+		{
+			"ShaderMapHash": "CBDA15AB3F620F16E55E86821CEE44496B1B768B",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/_SharedAssets/Materials/M_Rock_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "2AE5C0AB677058B151304286BCABB0A5DB5E0C34",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "5D59F2AFE172CD4D5D5F1AFE28A9057CDC84329D",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/_SharedAssets/Materials/M_Stylized_Sky"
+			]
+		},
+		{
+			"ShaderMapHash": "C2AC10B437AC9E1D0FBECF2B4C207D242E464077",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/StylizedWaterComponent/Materials/M_PP_UnderwaterAmbiance_Experimental"
+			]
+		},
+		{
+			"ShaderMapHash": "B3602CB5BE34B235EC8ACE178C59D95B6347228F",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7CA0B0B5897DA93241D00E7D90C5CD7B2D8FA369",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap"
+			]
+		},
+		{
+			"ShaderMapHash": "467EB2B5349A8C025BA38E444AEA322048D4761F",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap"
+			]
+		},
+		{
+			"ShaderMapHash": "E3780AB90509F0D202291E2324BAE8E831143E70",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "B09344B91022098CEF844E95D91FC7ED87426EC1",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/StylizedWaterComponent/Materials/MI_Water_01_WavesEnabled"
+			]
+		},
+		{
+			"ShaderMapHash": "54FCD6BEFB332A72E07D4504D8F7E3AA323B8692",
+			"Assets": [
+				"/InteractiveWorld/Materials/DrawingBoardMaterials/SnowSimulateMaterials/SimulateMaterials/M_RT_DrawEdge_Simple"
+			]
+		},
+		{
+			"ShaderMapHash": "23551BC2A24080A313883181831A6A8A6F9D0EDE",
+			"Assets": [
+				"/InteractiveWorld/Materials/DrawingBoardMaterials/SnowSimulateMaterials/SimulateMaterials/M_SnowCopy"
+			]
+		},
+		{
+			"ShaderMapHash": "2B8F69C215EBFD12AAF73B462E9B4CABD3858E88",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "725469C4354A11A73BD819823A0C84B01C7C2331",
+			"Assets": [
+				"/InteractiveWorld/EditorWidgets/DebugUI/Materials/M_UI_Debug"
+			]
+		},
+		{
+			"ShaderMapHash": "38D40CCAEB82E9EB230018255E3E3485A98C9E5B",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "17CE0DCBCEF4E58EE45332BB8394DE8D54BB763D",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap"
+			]
+		},
+		{
+			"ShaderMapHash": "5BEAA9CB39711C335230B055AEC3243143E32675",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "97028CCCBDD765899BE8C4D58E493D43CAE4BC16",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/StylizedWaterComponent/Materials/M_D_Caustics"
+			]
+		},
+		{
+			"ShaderMapHash": "E3E28DCC23B91583170180881B052C88A5A1E94C",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "F48C91CDFA08022EB9C4E7425548691CF0EA6D25",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/StylizedWaterComponent/Materials/M_Water_Base",
+				"/Game/LUSH_StylizedEnvironmentSet/StylizedWaterComponent/Materials/MI_Water_01_WavesDisabled"
+			]
+		},
+		{
+			"ShaderMapHash": "EEE893CFFC577CBD8F3F09EE6DF7D8E6A4938CAC",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/Materials/MI_Grass_Tiny_A"
+			]
+		},
+		{
+			"ShaderMapHash": "CDD6F6D0AAACD600E94525FBEEA46E214381CE46",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6F8215D1688F69860F179461455512662F1828DE",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap"
+			]
+		},
+		{
+			"ShaderMapHash": "0DD188D473AA5F9DEF6C8FFD2D14A90B58DA2BED",
+			"Assets": [
+				"/InteractiveWorld/Materials/DrawingBoardMaterials/SnowSimulateMaterials/SimulateMaterials/M_RT_Shadow"
+			]
+		},
+		{
+			"ShaderMapHash": "D682BCD47858553F6E8B155E0198943E9A816887",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Landscape/M_LND_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "3E481FD556500629B5BD4D42760074172FAB0947",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D0F0ADD981E98C754967A2D65578BE04D0215239",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8E38FCD94785BAFBD8448A3D37057D3B339EE3D3",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C11799DBC510DDA5EDAF8DA24DC7A63CF0959A6A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "FF1459DF79C16FFF982BBFEFCA2F91074D0BB4FC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "F9506EDF1C4EFA38AC0002A537C3173507C6B07F",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/3D_Models/Material_001",
+				"/Game/3D_Models/Material_002",
+				"/Game/3D_Models/reed-coral/source/01_-_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "092D9EDFEA8F8776AF272117A21BF440DC7A08C0",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/Meshes/Stones/Materials/MI_Stones_A",
+				"/Game/LUSH_StylizedEnvironmentSet/Meshes/Stones/Materials/MI_Stones_B"
+			]
+		},
+		{
+			"ShaderMapHash": "E74C3AE1977BE47D188CD23358E169CBB2239DEB",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "8599D5E28511A4F5740673E2AF8965ACFC2D5715",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "8FC747E37AB725E3F60F54292C29790FF5274180",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "9C2F4DE301B39D2831C69B68D2E1EE14C55545B7",
+			"Assets": [
+				"/InteractiveWorld/Materials/BrushMaterials/RayTrace/M_RayTracing_Box"
+			]
+		},
+		{
+			"ShaderMapHash": "FED638E505D66D5E0E355593329DB905BCCEB3B2",
+			"Assets": [
+				"/Game/MSPresets/M_MS_SurfaceBlend_Material/M_MS_SurfaceBlend_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "B5E0B9E8A640DA70ED23A65B4508D1ABD7535051",
+			"Assets": [
+				"/Water/Materials/WaterInfo/DrawWaterInfo"
+			]
+		},
+		{
+			"ShaderMapHash": "6B1FB7E9B8207517E28F30EC4A30628122CF7B0B",
+			"Assets": [
+				"/Game/MSPresets/M_MS_ImperfectionDecal_Material/M_MS_ImperfectionDecal_Material",
+				"/Game/MSPresets/M_MS_ImperfectionDecal_Material_VT/M_MS_ImperfectionDecal_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "4927A6EE827CB91675EF41CFDDA067ADA2E25093",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "8F25F2EE4ADFD544800A1B720C2F2B94A9B561FE",
+			"Assets": [
+				"/Game/M_SpaceSkybox"
+			]
+		},
+		{
+			"ShaderMapHash": "FF1145F6A7D2C96D666CB7F3A5DFD7F11B0D3512",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CA72D0F7944C4563C70D133F64977044A60EBE0B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A3CFCEF88DFFFA1CEF4F1CE99DF3868EBB2AB5C9",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material_Var",
+				"/Game/MSPresets/M_MS_Imperfection_Material_Var/M_MS_Imperfection_Material_Var",
+				"/Game/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_Var_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "B8AA57FAC107BB598C04E99F24784DFE85DF345E",
+			"Assets": [
+				"/Game/LUSH_StylizedEnvironmentSet/StylizedWaterComponent/Materials/M_PP_Underwater"
+			]
+		},
+		{
+			"ShaderMapHash": "41C209FBAB4912F5BB45AE7368EF13348DF6BB50",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
+			]
+		},
+		{
+			"ShaderMapHash": "9CC9BCFB1252CD82B805F55F219E2DC1B1C5BCF4",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "2FA3C4FC8FE19E74C52690D8C1378A8E9C9D1C9D",
+			"Assets": [
+				"/Game/FirstOcean/M_Landscape"
+			]
+		},
+		{
+			"ShaderMapHash": "9F7AA6FD9E1FB9EC7BC35C7BCF6EB83B7AA3F46F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		}
+	]
+}

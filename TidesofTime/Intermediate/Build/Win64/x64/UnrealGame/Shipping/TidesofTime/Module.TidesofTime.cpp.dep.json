@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\sneep\\onedrive\\desktop\\oceans\\tides-of-time\\tidesoftime\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\tidesoftime\\module.tidesoftime.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sneep\\onedrive\\desktop\\oceans\\tides-of-time\\tidesoftime\\intermediate\\build\\win64\\x64\\tidesoftime\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\sneep\\onedrive\\desktop\\oceans\\tides-of-time\\tidesoftime\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\tidesoftime\\definitions.tidesoftime.h",
+            "c:\\users\\sneep\\onedrive\\desktop\\oceans\\tides-of-time\\tidesoftime\\intermediate\\source\\tidesoftime.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
