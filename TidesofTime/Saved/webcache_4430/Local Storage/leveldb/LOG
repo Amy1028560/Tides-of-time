@@ -1,5 +1,3 @@
-2024/04/16-00:53:38.049 a0e0 Creating DB C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/04/16-00:53:38.071 a0e0 Reusing MANIFEST C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/04/16-01:00:23.338 95e8 Level-0 table #5: started
-2024/04/16-01:00:23.343 95e8 Level-0 table #5: 18615 bytes OK
-2024/04/16-01:00:23.346 95e8 Delete type=0 #3
+2024/04/21-23:32:48.949 4e70 Reusing MANIFEST C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/21-23:32:48.974 4e70 Recovering log #4
+2024/04/21-23:32:48.976 4e70 Reusing old log C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/webcache_4430\Local Storage\leveldb/000004.log 
