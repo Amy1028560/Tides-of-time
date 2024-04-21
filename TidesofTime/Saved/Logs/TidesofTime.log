@@ -2376,3 +2376,1286 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.21-00.08.57:774][389]AssetCheck: New page: Asset Save: FirstOcean
 [2024.04.21-00.08.57:774][389]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstOcean/FirstOcean.FirstOcean
 [2024.04.21-00.09.34:791][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.04.21-00.10.28:136][314]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.10.28:140][314]LogContentBrowser: Deferred new asset file creation: L_MainMenu1
+[2024.04.21-00.10.28:169][314]LogContentBrowser: Creating deferred item: L_MainMenu1
+[2024.04.21-00.10.28:197][315]LogContentBrowser: Renaming the item being created (Deferred Item: L_MainMenu1).
+[2024.04.21-00.10.29:129][349]LogContentBrowser: Attempting asset rename: L_MainMenu1 -> L_MainMenu1
+[2024.04.21-00.10.29:172][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.04.21-00.10.29:207][349]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.10.29:210][349]LogContentBrowser: End creating deferred item L_MainMenu1
+[2024.04.21-00.10.32:160][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.04.21-00.10.33:779][430]LogSlate: Window 'Save Content' being destroyed
+[2024.04.21-00.10.33:800][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-00.10.33:844][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.10.33:871][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.21-00.10.33:894][430]LogSavePackage: Moving output files for package: /Game/FirstOcean/L_MainMenu1
+[2024.04.21-00.10.33:894][430]LogSavePackage: Moving 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/L_MainMenu19BA9282E4BC5E2100F67B68CF0AF7E23.tmp' to 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/FirstOcean/L_MainMenu1.umap'
+[2024.04.21-00.10.33:909][430]LogFileHelpers: Saving map 'L_MainMenu1' took 0.064
+[2024.04.21-00.10.33:921][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 4.33 sec)
+[2024.04.21-00.10.33:921][430]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstOcean/L_MainMenu1.L_MainMenu1
+[2024.04.21-00.10.33:921][430]Cmd: MAP LOAD FILE="C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/FirstOcean/L_MainMenu1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.21-00.10.33:921][430]LightingResults: New page: Lighting Build
+[2024.04.21-00.10.33:928][430]LoadErrors: New page: Loading map: L_MainMenu1.umap
+[2024.04.21-00.10.33:987][430]LogWorld: UWorld::CleanupWorld for FirstOcean, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.10.33:988][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.10.33:988][430]MapCheck: New page: Map Check
+[2024.04.21-00.10.33:988][430]LightingResults: New page: Lighting Build
+[2024.04.21-00.10.34:010][430]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.10.34:036][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.04.21-00.10.34:044][430]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.10.34:044][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.10.34:046][430]LogWorld: UWorld::CleanupWorld for L_MainMenu0, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.10.34:046][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.10.34:074][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2024.04.21-00.10.34:095][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.04.21-00.10.34:109][430]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_MainMenu1'.
+[2024.04.21-00.10.34:109][430]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.10.34:109][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.10.34:111][430]LogAIModule: Creating AISystem for world L_MainMenu1
+[2024.04.21-00.10.34:229][430]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.21-00.10.34:259][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.04.21-00.10.34:277][430]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.21-00.10.34:277][430]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.247ms to complete.
+[2024.04.21-00.10.34:296][430]AssetCheck: New page: Asset Save: L_MainMenu1
+[2024.04.21-00.10.34:296][430]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstOcean/L_MainMenu1.L_MainMenu1
+[2024.04.21-00.10.47:853][178]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstOcean/L_MainMenu1.L_MainMenu1:PersistentLevel.L_MainMenu1
+[2024.04.21-00.10.47:854][178]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.10.47:854][178]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.11.15:207][457]LogContentBrowser: Deferred new asset file creation: WB_MainMenu1
+[2024.04.21-00.11.15:220][457]LogContentBrowser: Creating deferred item: WB_MainMenu1
+[2024.04.21-00.11.15:237][458]LogContentBrowser: Renaming the item being created (Deferred Item: WB_MainMenu1).
+[2024.04.21-00.11.18:178][635]LogContentBrowser: Attempting asset rename: WB_MainMenu1 -> WB_MainMenu1
+[2024.04.21-00.11.18:214][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.04.21-00.11.18:237][635]LogContentBrowser: End creating deferred item WB_MainMenu1
+[2024.04.21-00.11.19:720][713]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WB_MainMenu.WB_MainMenu
+[2024.04.21-00.11.19:720][713]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.11.19:720][713]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.11.19:741][713]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.11.19:741][713]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.12.19:246][492]BlueprintLog: New page: Compile WB_MainMenu
+[2024.04.21-00.12.19:300][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.04.21-00.12.21:690][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-00.12.21:729][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_MainMenu" FILE="C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/Blueprints/WB_MainMenu.uasset" SILENT=true
+[2024.04.21-00.12.21:744][596]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_MainMenu
+[2024.04.21-00.12.21:745][596]LogSavePackage: Moving 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/WB_MainMenuCA6F765C45CE2C61E318A8BF0295429F.tmp' to 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/Blueprints/WB_MainMenu.uasset'
+[2024.04.21-00.12.21:758][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 4.40 sec)
+[2024.04.21-00.12.21:762][596]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.21-00.12.21:762][596]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_MainMenu.WB_MainMenu
+[2024.04.21-00.12.37:639][407]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WB_MainMenu1.WB_MainMenu1
+[2024.04.21-00.12.37:639][407]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.12.37:640][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.12.37:660][407]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.12.37:660][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.13.25:013][633]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.13.25:013][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.13.25:030][633]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.13.25:030][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.13.34:697][ 73]BlueprintLog: New page: Compile L_MainMenu1
+[2024.04.21-00.13.34:751][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2024.04.21-00.13.40:528][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.04.21-00.13.40:539][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-00.13.40:649][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.21-00.13.40:670][334]LogSavePackage: Moving output files for package: /Game/FirstOcean/L_MainMenu1
+[2024.04.21-00.13.40:671][334]LogSavePackage: Moving 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/L_MainMenu173093A6D48B33D96DDF40BA495EE53B4.tmp' to 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/FirstOcean/L_MainMenu1.umap'
+[2024.04.21-00.13.40:686][334]LogFileHelpers: Saving map 'L_MainMenu1' took 0.111
+[2024.04.21-00.13.40:689][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_MainMenu1" FILE="C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/Blueprints/WB_MainMenu1.uasset" SILENT=true
+[2024.04.21-00.13.40:700][334]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_MainMenu1
+[2024.04.21-00.13.40:700][334]LogSavePackage: Moving 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/WB_MainMenu15A89291F4D3A344317CB6BB0603D2A7B.tmp' to 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/Blueprints/WB_MainMenu1.uasset'
+[2024.04.21-00.13.40:717][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 4.58 sec)
+[2024.04.21-00.13.40:721][334]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.21-00.13.40:721][334]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstOcean/L_MainMenu1.L_MainMenu1
+[2024.04.21-00.13.40:721][334]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_MainMenu1.WB_MainMenu1
+[2024.04.21-00.13.48:608][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.04.21-00.13.48:654][741]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.13.48:655][741]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstOcean/L_MainMenu.L_MainMenu
+[2024.04.21-00.13.48:655][741]Cmd: MAP LOAD FILE="C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/FirstOcean/L_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.21-00.13.48:655][741]LightingResults: New page: Lighting Build
+[2024.04.21-00.13.48:656][741]LoadErrors: New page: Loading map: L_MainMenu.umap
+[2024.04.21-00.13.48:758][741]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.13.48:758][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.13.48:802][741]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.13.48:802][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.13.48:802][741]MapCheck: New page: Map Check
+[2024.04.21-00.13.48:802][741]LightingResults: New page: Lighting Build
+[2024.04.21-00.13.48:826][741]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.13.48:831][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.04.21-00.13.48:841][741]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.13.48:841][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.13.48:860][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.04.21-00.13.48:886][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.04.21-00.13.48:890][741]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_MainMenu'.
+[2024.04.21-00.13.48:890][741]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.13.48:891][741]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.13.48:891][741]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.21-00.13.48:949][741]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.21-00.13.48:971][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.04.21-00.13.48:985][741]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.21-00.13.48:985][741]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.265ms to complete.
+[2024.04.21-00.13.52:950][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.21-00.13.52:999][968]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.13.53:002][968]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstOcean/L_MainMenu0.L_MainMenu0
+[2024.04.21-00.13.53:002][968]Cmd: MAP LOAD FILE="C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/FirstOcean/L_MainMenu0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.21-00.13.53:002][968]LightingResults: New page: Lighting Build
+[2024.04.21-00.13.53:002][968]LoadErrors: New page: Loading map: L_MainMenu0.umap
+[2024.04.21-00.13.53:053][968]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.13.53:054][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.13.53:054][968]MapCheck: New page: Map Check
+[2024.04.21-00.13.53:054][968]LightingResults: New page: Lighting Build
+[2024.04.21-00.13.53:076][968]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.13.53:080][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2024.04.21-00.13.53:083][968]LogWorld: UWorld::CleanupWorld for L_MainMenu0, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.13.53:083][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.13.53:112][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.04.21-00.13.53:140][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.04.21-00.13.53:155][968]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_MainMenu0'.
+[2024.04.21-00.13.53:155][968]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.13.53:155][968]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.13.53:156][968]LogAIModule: Creating AISystem for world L_MainMenu0
+[2024.04.21-00.13.53:337][968]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.21-00.13.53:366][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.04.21-00.13.53:379][968]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.21-00.13.53:380][968]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.206ms to complete.
+[2024.04.21-00.13.54:519][ 26]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-00.13.54:535][ 26]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.21-00.13.54:536][ 26]LogPlayLevel: [PlayLevel] Compiling WB_MainMenu1 before play...
+[2024.04.21-00.13.54:593][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2024.04.21-00.13.54:596][ 26]LogPlayLevel: PlayLevel: Blueprint regeneration took 61 ms (1 blueprints)
+[2024.04.21-00.13.54:596][ 26]PIE: New page: PIE session: L_MainMenu0 (21 Apr 2024, 8:13:54 pm)
+[2024.04.21-00.13.54:598][ 26]LogPlayLevel: Creating play world package: /Game/FirstOcean/UEDPIE_0_L_MainMenu0
+[2024.04.21-00.13.54:602][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004134s)
+[2024.04.21-00.13.54:602][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstOcean/L_MainMenu0.L_MainMenu0 to /Game/FirstOcean/UEDPIE_0_L_MainMenu0.L_MainMenu0 (0.004192s)
+[2024.04.21-00.13.54:627][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.04.21-00.13.54:628][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.13.54:628][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.13.54:630][ 26]LogAIModule: Creating AISystem for world L_MainMenu0
+[2024.04.21-00.13.54:631][ 26]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2024.04.21-00.13.54:631][ 26]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.21-00.13.54:631][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-00.13.54:631][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-00.13.54:631][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-00.13.54:631][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-00.13.54:631][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-00.13.54:631][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-00.13.54:631][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-00.13.54:631][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-00.13.54:631][ 26]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-00.13.54:631][ 26]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-00.13.54:631][ 26]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-00.13.54:635][ 26]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-00.13.54:708][ 26]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.21-00.13.54:708][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-00.13.54:708][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-00.13.54:708][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-00.13.54:709][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.21-00.13.54:709][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.21-00.13.54:712][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.21-00.13.54:712][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.21-00.13.54:712][ 26]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.21-00.13.54:712][ 26]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_MainMenu0'.
+[2024.04.21-00.13.54:712][ 26]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.21-00.13.54:715][ 26]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.13.54:716][ 26]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu0.L_MainMenu0 up for play (max tick rate 60) at 2024.04.21-10.13.54
+[2024.04.21-00.13.54:716][ 26]LogWorld: Bringing up level for play took: 0.000820
+[2024.04.21-00.13.54:720][ 26]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2024.04.21-00.13.54:722][ 26]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.21-00.13.54:722][ 26]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.21-00.13.54:722][ 26]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.21-00.13.54:722][ 26]PIE: Server logged in
+[2024.04.21-00.13.54:723][ 26]PIE: Play in editor total start time 0.189 seconds.
+[2024.04.21-00.13.57:031][155]LogNet: Browse: /Game/FirstOcean/L_MainMenu1
+[2024.04.21-00.13.57:031][155]LogLoad: LoadMap: /Game/FirstOcean/L_MainMenu1
+[2024.04.21-00.13.57:031][155]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu0
+[2024.04.21-00.13.57:032][155]LogWorld: UWorld::CleanupWorld for L_MainMenu0, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.13.57:032][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.13.57:055][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.13.57:059][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.04.21-00.13.57:076][155]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_MainMenu1'.
+[2024.04.21-00.13.57:077][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.13.57:077][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.13.57:078][155]LogAIModule: Creating AISystem for world L_MainMenu1
+[2024.04.21-00.13.57:078][155]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2024.04.21-00.13.57:078][155]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.13.57:080][155]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu1.L_MainMenu1 up for play (max tick rate 60) at 2024.04.21-10.13.57
+[2024.04.21-00.13.57:080][155]LogWorld: Bringing up level for play took: 0.001957
+[2024.04.21-00.13.57:083][155]LogLoad: Took 0.051765 seconds to LoadMap(/Game/FirstOcean/L_MainMenu1)
+[2024.04.21-00.13.59:625][306]LogNet: Browse: /Game/FirstOcean/FirstOcean
+[2024.04.21-00.13.59:625][306]LogLoad: LoadMap: /Game/FirstOcean/FirstOcean
+[2024.04.21-00.13.59:625][306]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu1
+[2024.04.21-00.13.59:626][306]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.13.59:626][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.13.59:649][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.13.59:654][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.04.21-00.13.59:798][306]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstOcean'.
+[2024.04.21-00.13.59:798][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.13.59:798][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.13.59:799][306]LogAIModule: Creating AISystem for world FirstOcean
+[2024.04.21-00.13.59:800][306]LogPlayLevel: PIE: World Init took: (0.002220s)
+[2024.04.21-00.13.59:800][306]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.21-00.13.59:801][306]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/FirstOcean/UEDPIE_0_FirstOcean.LandscapeNaniteMesh_3 being ready before playing
+[2024.04.21-00.13.59:896][306]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_FirstOcean.FirstOcean up for play (max tick rate 60) at 2024.04.21-10.13.59
+[2024.04.21-00.13.59:898][306]LogWorld: Bringing up level for play took: 0.096347
+[2024.04.21-00.13.59:906][306]LogTemp: BP_DrawingBoard_Snow_C_0 Registered
+[2024.04.21-00.13.59:911][306]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.21-00.13.59:912][306]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.21-00.13.59:912][306]LogTemp: foot_l Registered
+[2024.04.21-00.13.59:912][306]LogTemp: Foot_L1 Registered
+[2024.04.21-00.13.59:913][306]LogLoad: Took 0.287045 seconds to LoadMap(/Game/FirstOcean/FirstOcean)
+[2024.04.21-00.14.02:204][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-00.14.02:205][416]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_FirstOcean
+[2024.04.21-00.14.02:205][416]LogTemp: BP_DrawingBoard_Snow_C_0 UnRegistered
+[2024.04.21-00.14.02:205][416]LogTemp: foot_l UnRegistered
+[2024.04.21-00.14.02:205][416]LogTemp: Foot_L1 UnRegistered
+[2024.04.21-00.14.02:205][416]LogWorld: UWorld::CleanupWorld for FirstOcean, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.02:208][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.02:213][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-00.14.02:222][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.02:247][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-00.14.02:249][416]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.21-00.14.02:249][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.21-00.14.02:253][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.21-00.14.02:272][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2024.04.21-00.14.02:326][417]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.04.21-00.14.05:631][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.04.21-00.14.05:681][593]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.14.05:683][593]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstOcean/L_MainMenu1.L_MainMenu1
+[2024.04.21-00.14.05:684][593]Cmd: MAP LOAD FILE="C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/FirstOcean/L_MainMenu1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.21-00.14.05:684][593]LightingResults: New page: Lighting Build
+[2024.04.21-00.14.05:684][593]LoadErrors: New page: Loading map: L_MainMenu1.umap
+[2024.04.21-00.14.05:734][593]LogWorld: UWorld::CleanupWorld for L_MainMenu0, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.05:734][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.05:734][593]MapCheck: New page: Map Check
+[2024.04.21-00.14.05:734][593]LightingResults: New page: Lighting Build
+[2024.04.21-00.14.05:751][593]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.14.05:756][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.04.21-00.14.05:759][593]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.05:759][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.05:787][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.04.21-00.14.05:807][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.04.21-00.14.05:821][593]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_MainMenu1'.
+[2024.04.21-00.14.05:821][593]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.14.05:821][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.14.05:822][593]LogAIModule: Creating AISystem for world L_MainMenu1
+[2024.04.21-00.14.05:937][593]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.21-00.14.05:959][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.04.21-00.14.05:972][593]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.21-00.14.05:972][593]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.191ms to complete.
+[2024.04.21-00.14.10:078][802]LogDerivedDataCache: C:/Users/sneep/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:57.378 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 29396 files in 31670 folders with total size 2246 MiB.
+[2024.04.21-00.14.26:194][574]BlueprintLog: New page: Compile WB_MainMenu1
+[2024.04.21-00.14.26:238][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.04.21-00.14.28:850][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.04.21-00.14.28:860][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-00.14.28:905][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_MainMenu1" FILE="C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/Blueprints/WB_MainMenu1.uasset" SILENT=true
+[2024.04.21-00.14.28:915][678]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_MainMenu1
+[2024.04.21-00.14.28:916][678]LogSavePackage: Moving 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/WB_MainMenu1B320075E4E25686C91974A89409F80B6.tmp' to 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/Blueprints/WB_MainMenu1.uasset'
+[2024.04.21-00.14.28:930][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 4.65 sec)
+[2024.04.21-00.14.28:934][678]AssetCheck: New page: Asset Save: WB_MainMenu1
+[2024.04.21-00.14.28:934][678]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_MainMenu1.WB_MainMenu1
+[2024.04.21-00.14.33:784][937]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WB_MainMenu.WB_MainMenu
+[2024.04.21-00.14.33:785][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.14.33:785][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.14.33:806][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.14.33:806][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.14.36:309][ 40]LogSlate: Window 'WB_MainMenu' being destroyed
+[2024.04.21-00.14.36:320][ 40]LogSlate: Window 'WB_MainMenu' being destroyed
+[2024.04.21-00.14.36:332][ 40]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.36:332][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.36:406][ 40]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.36:406][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.36:421][ 40]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.36:421][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.36:467][ 40]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.36:467][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.36:482][ 40]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.36:482][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.36:535][ 40]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.36:535][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.36:550][ 40]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.36:550][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.42:909][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2024.04.21-00.14.42:933][356]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstOcean/L_MainMenu1.L_MainMenu1
+[2024.04.21-00.14.42:933][356]Cmd: MAP LOAD FILE="C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/FirstOcean/L_MainMenu1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.21-00.14.42:933][356]LightingResults: New page: Lighting Build
+[2024.04.21-00.14.42:934][356]LoadErrors: New page: Loading map: L_MainMenu1.umap
+[2024.04.21-00.14.42:986][356]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.42:986][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.42:986][356]MapCheck: New page: Map Check
+[2024.04.21-00.14.42:986][356]LightingResults: New page: Lighting Build
+[2024.04.21-00.14.43:008][356]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.14.43:013][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2024.04.21-00.14.43:028][356]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_MainMenu1'.
+[2024.04.21-00.14.43:028][356]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.14.43:028][356]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.14.43:029][356]LogAIModule: Creating AISystem for world L_MainMenu1
+[2024.04.21-00.14.43:148][356]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.21-00.14.43:170][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.04.21-00.14.43:184][356]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.21-00.14.43:184][356]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2024.04.21-00.14.45:204][460]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-00.14.45:219][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-00.14.45:219][460]PIE: New page: PIE session: L_MainMenu1 (21 Apr 2024, 8:14:45 pm)
+[2024.04.21-00.14.45:255][460]LogPlayLevel: Creating play world package: /Game/FirstOcean/UEDPIE_0_L_MainMenu1
+[2024.04.21-00.14.45:259][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003974s)
+[2024.04.21-00.14.45:259][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstOcean/L_MainMenu1.L_MainMenu1 to /Game/FirstOcean/UEDPIE_0_L_MainMenu1.L_MainMenu1 (0.004046s)
+[2024.04.21-00.14.45:277][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.04.21-00.14.45:283][460]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.14.45:284][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.14.45:284][460]LogAIModule: Creating AISystem for world L_MainMenu1
+[2024.04.21-00.14.45:285][460]LogPlayLevel: PIE: World Init took: (0.001730s)
+[2024.04.21-00.14.45:285][460]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.21-00.14.45:285][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-00.14.45:285][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-00.14.45:285][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-00.14.45:285][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-00.14.45:285][460]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-00.14.45:285][460]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-00.14.45:285][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-00.14.45:285][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-00.14.45:285][460]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-00.14.45:285][460]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-00.14.45:285][460]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-00.14.45:289][460]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-00.14.45:359][460]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.21-00.14.45:359][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-00.14.45:359][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-00.14.45:359][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-00.14.45:360][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.21-00.14.45:360][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.21-00.14.45:364][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.21-00.14.45:364][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.21-00.14.45:364][460]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.21-00.14.45:364][460]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_MainMenu1'.
+[2024.04.21-00.14.45:364][460]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.21-00.14.45:366][460]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.14.45:367][460]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu1.L_MainMenu1 up for play (max tick rate 60) at 2024.04.21-10.14.45
+[2024.04.21-00.14.45:367][460]LogWorld: Bringing up level for play took: 0.000774
+[2024.04.21-00.14.45:371][460]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2024.04.21-00.14.45:373][460]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.21-00.14.45:373][460]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.21-00.14.45:373][460]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.21-00.14.45:373][460]PIE: Server logged in
+[2024.04.21-00.14.45:374][460]PIE: Play in editor total start time 0.155 seconds.
+[2024.04.21-00.14.48:114][613]LogNet: Browse: /Game/FirstOcean/L_MainMenu0
+[2024.04.21-00.14.48:114][613]LogLoad: LoadMap: /Game/FirstOcean/L_MainMenu0
+[2024.04.21-00.14.48:114][613]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu1
+[2024.04.21-00.14.48:115][613]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.48:115][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.48:170][613]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.14.48:174][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.04.21-00.14.48:190][613]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_MainMenu0'.
+[2024.04.21-00.14.48:190][613]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.14.48:190][613]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.14.48:191][613]LogAIModule: Creating AISystem for world L_MainMenu0
+[2024.04.21-00.14.48:191][613]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2024.04.21-00.14.48:191][613]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.14.48:193][613]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu0.L_MainMenu0 up for play (max tick rate 60) at 2024.04.21-10.14.48
+[2024.04.21-00.14.48:193][613]LogWorld: Bringing up level for play took: 0.001679
+[2024.04.21-00.14.48:195][613]LogLoad: Took 0.081305 seconds to LoadMap(/Game/FirstOcean/L_MainMenu0)
+[2024.04.21-00.14.51:143][789]LogNet: Browse: /Game/FirstOcean/L_MainMenu1
+[2024.04.21-00.14.51:143][789]LogLoad: LoadMap: /Game/FirstOcean/L_MainMenu1
+[2024.04.21-00.14.51:143][789]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu0
+[2024.04.21-00.14.51:144][789]LogWorld: UWorld::CleanupWorld for L_MainMenu0, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.51:144][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.51:199][789]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.14.51:203][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.04.21-00.14.51:207][789]LogPlayLevel: Creating play world package: /Game/FirstOcean/UEDPIE_0_L_MainMenu1
+[2024.04.21-00.14.51:211][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003756s)
+[2024.04.21-00.14.51:211][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstOcean/L_MainMenu1.L_MainMenu1 to /Game/FirstOcean/UEDPIE_0_L_MainMenu1.L_MainMenu1 (0.003828s)
+[2024.04.21-00.14.51:211][789]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_MainMenu1'.
+[2024.04.21-00.14.51:211][789]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.14.51:212][789]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.14.51:212][789]LogAIModule: Creating AISystem for world L_MainMenu1
+[2024.04.21-00.14.51:213][789]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2024.04.21-00.14.51:213][789]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.14.51:213][789]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu1.L_MainMenu1 up for play (max tick rate 60) at 2024.04.21-10.14.51
+[2024.04.21-00.14.51:213][789]LogWorld: Bringing up level for play took: 0.000665
+[2024.04.21-00.14.51:216][789]LogLoad: Took 0.072548 seconds to LoadMap(/Game/FirstOcean/UEDPIE_0_L_MainMenu1)
+[2024.04.21-00.14.56:380][ 97]LogNet: Browse: /Game/FirstOcean/L_MainMenu0
+[2024.04.21-00.14.56:380][ 97]LogLoad: LoadMap: /Game/FirstOcean/L_MainMenu0
+[2024.04.21-00.14.56:380][ 97]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu1
+[2024.04.21-00.14.56:380][ 97]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.56:380][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.56:409][ 97]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.14.56:412][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.04.21-00.14.56:427][ 97]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_MainMenu0'.
+[2024.04.21-00.14.56:427][ 97]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.14.56:427][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.14.56:428][ 97]LogAIModule: Creating AISystem for world L_MainMenu0
+[2024.04.21-00.14.56:428][ 97]LogPlayLevel: PIE: World Init took: (0.001574s)
+[2024.04.21-00.14.56:428][ 97]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.14.56:430][ 97]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu0.L_MainMenu0 up for play (max tick rate 60) at 2024.04.21-10.14.56
+[2024.04.21-00.14.56:430][ 97]LogWorld: Bringing up level for play took: 0.001686
+[2024.04.21-00.14.56:432][ 97]LogLoad: Took 0.052270 seconds to LoadMap(/Game/FirstOcean/L_MainMenu0)
+[2024.04.21-00.14.57:791][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-00.14.57:791][174]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu0
+[2024.04.21-00.14.57:791][174]LogWorld: UWorld::CleanupWorld for L_MainMenu0, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.14.57:791][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.57:796][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-00.14.57:803][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.14.57:821][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-00.14.57:822][174]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.21-00.14.57:822][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.21-00.14.57:825][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.21-00.14.57:836][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.04.21-00.14.57:876][175]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2024.04.21-00.15.03:181][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.04.21-00.15.03:184][461]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstOcean/L_MainMenu1.L_MainMenu1
+[2024.04.21-00.15.03:185][461]Cmd: MAP LOAD FILE="C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/FirstOcean/L_MainMenu1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.21-00.15.03:185][461]LightingResults: New page: Lighting Build
+[2024.04.21-00.15.03:185][461]LoadErrors: New page: Loading map: L_MainMenu1.umap
+[2024.04.21-00.15.03:240][461]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.15.03:240][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.15.03:240][461]MapCheck: New page: Map Check
+[2024.04.21-00.15.03:240][461]LightingResults: New page: Lighting Build
+[2024.04.21-00.15.03:264][461]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.15.03:268][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.04.21-00.15.03:281][461]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_MainMenu1'.
+[2024.04.21-00.15.03:281][461]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.15.03:282][461]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.15.03:282][461]LogAIModule: Creating AISystem for world L_MainMenu1
+[2024.04.21-00.15.03:438][461]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.21-00.15.03:460][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.04.21-00.15.03:472][461]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.21-00.15.03:473][461]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.185ms to complete.
+[2024.04.21-00.15.04:383][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.21-00.15.04:389][503]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstOcean/L_MainMenu1.L_MainMenu1
+[2024.04.21-00.15.04:389][503]Cmd: MAP LOAD FILE="C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/FirstOcean/L_MainMenu1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.21-00.15.04:389][503]LightingResults: New page: Lighting Build
+[2024.04.21-00.15.04:389][503]LoadErrors: New page: Loading map: L_MainMenu1.umap
+[2024.04.21-00.15.04:441][503]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.15.04:442][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.15.04:442][503]MapCheck: New page: Map Check
+[2024.04.21-00.15.04:442][503]LightingResults: New page: Lighting Build
+[2024.04.21-00.15.04:464][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.15.04:468][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.04.21-00.15.04:482][503]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_MainMenu1'.
+[2024.04.21-00.15.04:482][503]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.15.04:482][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.15.04:483][503]LogAIModule: Creating AISystem for world L_MainMenu1
+[2024.04.21-00.15.04:639][503]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.21-00.15.04:668][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.04.21-00.15.04:684][503]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.21-00.15.04:684][503]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2024.04.21-00.15.06:814][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.21-00.15.06:821][603]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstOcean/L_MainMenu1.L_MainMenu1
+[2024.04.21-00.15.06:821][603]Cmd: MAP LOAD FILE="C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/FirstOcean/L_MainMenu1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.21-00.15.06:821][603]LightingResults: New page: Lighting Build
+[2024.04.21-00.15.06:821][603]LoadErrors: New page: Loading map: L_MainMenu1.umap
+[2024.04.21-00.15.06:878][603]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.15.06:878][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.15.06:878][603]MapCheck: New page: Map Check
+[2024.04.21-00.15.06:878][603]LightingResults: New page: Lighting Build
+[2024.04.21-00.15.06:898][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.15.06:901][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.04.21-00.15.06:920][603]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_MainMenu1'.
+[2024.04.21-00.15.06:920][603]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.15.06:920][603]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.15.06:921][603]LogAIModule: Creating AISystem for world L_MainMenu1
+[2024.04.21-00.15.07:124][603]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.21-00.15.07:154][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.04.21-00.15.07:166][603]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.21-00.15.07:167][603]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2024.04.21-00.15.15:905][  5]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WB_MainMenu1.WB_MainMenu1
+[2024.04.21-00.15.15:905][  5]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.15.15:905][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.15.15:909][  5]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.15.15:909][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.26.40:816][466]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.21-00.27.59:335][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2024.04.21-00.27.59:359][252]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstOcean/L_MainMenu1' took 0.047
+[2024.04.21-00.27.59:359][252]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WB_MainMenu1] ([2] browsable assets)...
+[2024.04.21-00.27.59:363][252]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WB_MainMenu1.WB_MainMenu1]
+[2024.04.21-00.27.59:363][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WB_MainMenu1]
+[2024.04.21-00.27.59:374][252]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WB_MainMenu1_Auto2
+[2024.04.21-00.27.59:375][252]LogSavePackage: Moving 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/WB_MainMenu1_Auto23793A7E046BF9CD7EFFA2B8B68D075B0.tmp' to 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/Autosaves/Game/Blueprints/WB_MainMenu1_Auto2.uasset'
+[2024.04.21-00.27.59:377][252]LogFileHelpers: Auto-saving content packages took 0.018
+[2024.04.21-00.31.24:095][369]BlueprintLog: New page: Compile WB_MainMenu1
+[2024.04.21-00.31.24:134][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2024.04.21-00.31.26:150][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-00.31.26:196][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_MainMenu1" FILE="C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/Blueprints/WB_MainMenu1.uasset" SILENT=true
+[2024.04.21-00.31.26:211][473]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_MainMenu1
+[2024.04.21-00.31.26:213][473]LogSavePackage: Moving 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/WB_MainMenu1C0435797428AC7EDBE6F6EB205BEF748.tmp' to 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/Blueprints/WB_MainMenu1.uasset'
+[2024.04.21-00.31.26:225][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 4.73 sec)
+[2024.04.21-00.31.26:228][473]AssetCheck: New page: Asset Save: WB_MainMenu1
+[2024.04.21-00.31.26:228][473]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_MainMenu1.WB_MainMenu1
+[2024.04.21-00.31.29:356][640]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-00.31.29:372][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-00.31.29:372][640]PIE: New page: PIE session: L_MainMenu1 (21 Apr 2024, 8:31:29 pm)
+[2024.04.21-00.31.29:373][640]LogPlayLevel: Creating play world package: /Game/FirstOcean/UEDPIE_0_L_MainMenu1
+[2024.04.21-00.31.29:377][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003907s)
+[2024.04.21-00.31.29:377][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstOcean/L_MainMenu1.L_MainMenu1 to /Game/FirstOcean/UEDPIE_0_L_MainMenu1.L_MainMenu1 (0.003971s)
+[2024.04.21-00.31.29:402][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.04.21-00.31.29:406][640]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.31.29:407][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.31.29:407][640]LogAIModule: Creating AISystem for world L_MainMenu1
+[2024.04.21-00.31.29:409][640]LogPlayLevel: PIE: World Init took: (0.001703s)
+[2024.04.21-00.31.29:409][640]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.04.21-00.31.29:409][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-00.31.29:409][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-00.31.29:409][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-00.31.29:409][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-00.31.29:409][640]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-00.31.29:409][640]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-00.31.29:409][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-00.31.29:409][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-00.31.29:410][640]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-00.31.29:410][640]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-00.31.29:410][640]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-00.31.29:413][640]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-00.31.29:486][640]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.21-00.31.29:486][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-00.31.29:487][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-00.31.29:487][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-00.31.29:488][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.04.21-00.31.29:488][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.04.21-00.31.29:491][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.04.21-00.31.29:491][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.04.21-00.31.29:491][640]LogInit: FAudioDevice initialized with ID 9.
+[2024.04.21-00.31.29:491][640]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_MainMenu1'.
+[2024.04.21-00.31.29:491][640]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.21-00.31.29:493][640]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.31.29:494][640]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu1.L_MainMenu1 up for play (max tick rate 60) at 2024.04.21-10.31.29
+[2024.04.21-00.31.29:494][640]LogWorld: Bringing up level for play took: 0.000804
+[2024.04.21-00.31.29:497][640]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2024.04.21-00.31.29:500][640]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.21-00.31.29:500][640]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.21-00.31.29:500][640]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.21-00.31.29:500][640]PIE: Server logged in
+[2024.04.21-00.31.29:501][640]PIE: Play in editor total start time 0.129 seconds.
+[2024.04.21-00.31.32:613][819]LogViewport: Scene viewport resized to 1169x1158, mode Windowed.
+[2024.04.21-00.31.32:631][820]LogViewport: Scene viewport resized to 1231x1158, mode Windowed.
+[2024.04.21-00.31.32:675][821]LogViewport: Scene viewport resized to 1318x1158, mode Windowed.
+[2024.04.21-00.31.32:726][822]LogViewport: Scene viewport resized to 1406x1158, mode Windowed.
+[2024.04.21-00.31.32:770][823]LogViewport: Scene viewport resized to 1410x1158, mode Windowed.
+[2024.04.21-00.31.32:815][824]LogViewport: Scene viewport resized to 1412x1158, mode Windowed.
+[2024.04.21-00.31.32:870][825]LogViewport: Scene viewport resized to 1448x1158, mode Windowed.
+[2024.04.21-00.31.32:898][826]LogViewport: Scene viewport resized to 1461x1158, mode Windowed.
+[2024.04.21-00.31.32:941][827]LogViewport: Scene viewport resized to 1552x1158, mode Windowed.
+[2024.04.21-00.31.32:993][828]LogViewport: Scene viewport resized to 1617x1158, mode Windowed.
+[2024.04.21-00.31.33:042][829]LogViewport: Scene viewport resized to 1627x1158, mode Windowed.
+[2024.04.21-00.31.33:089][830]LogViewport: Scene viewport resized to 1641x1158, mode Windowed.
+[2024.04.21-00.31.33:126][831]LogViewport: Scene viewport resized to 1650x1158, mode Windowed.
+[2024.04.21-00.31.33:189][832]LogViewport: Scene viewport resized to 1666x1158, mode Windowed.
+[2024.04.21-00.31.33:602][833]LogViewport: Scene viewport resized to 1765x1158, mode Windowed.
+[2024.04.21-00.31.36:377][979]LogViewport: Scene viewport resized to 1769x1158, mode Windowed.
+[2024.04.21-00.31.36:394][980]LogViewport: Scene viewport resized to 1784x1158, mode Windowed.
+[2024.04.21-00.31.36:433][981]LogViewport: Scene viewport resized to 1822x1158, mode Windowed.
+[2024.04.21-00.31.36:474][982]LogViewport: Scene viewport resized to 1867x1158, mode Windowed.
+[2024.04.21-00.31.36:520][983]LogViewport: Scene viewport resized to 1889x1158, mode Windowed.
+[2024.04.21-00.31.36:565][984]LogViewport: Scene viewport resized to 1893x1158, mode Windowed.
+[2024.04.21-00.31.36:615][985]LogViewport: Scene viewport resized to 1902x1158, mode Windowed.
+[2024.04.21-00.31.36:651][986]LogViewport: Scene viewport resized to 1919x1158, mode Windowed.
+[2024.04.21-00.31.36:698][987]LogViewport: Scene viewport resized to 1931x1158, mode Windowed.
+[2024.04.21-00.31.36:735][988]LogViewport: Scene viewport resized to 1956x1158, mode Windowed.
+[2024.04.21-00.31.36:865][989]LogViewport: Scene viewport resized to 1971x1158, mode Windowed.
+[2024.04.21-00.31.37:016][991]LogViewport: Scene viewport resized to 1978x1158, mode Windowed.
+[2024.04.21-00.31.37:033][992]LogViewport: Scene viewport resized to 1980x1158, mode Windowed.
+[2024.04.21-00.31.37:068][993]LogViewport: Scene viewport resized to 1988x1158, mode Windowed.
+[2024.04.21-00.31.37:099][994]LogViewport: Scene viewport resized to 2002x1158, mode Windowed.
+[2024.04.21-00.31.37:156][995]LogViewport: Scene viewport resized to 2038x1158, mode Windowed.
+[2024.04.21-00.31.37:221][996]LogViewport: Scene viewport resized to 2049x1158, mode Windowed.
+[2024.04.21-00.31.37:272][997]LogViewport: Scene viewport resized to 2070x1158, mode Windowed.
+[2024.04.21-00.31.37:319][998]LogViewport: Scene viewport resized to 2111x1158, mode Windowed.
+[2024.04.21-00.31.37:396][999]LogViewport: Scene viewport resized to 2136x1158, mode Windowed.
+[2024.04.21-00.31.37:442][  0]LogViewport: Scene viewport resized to 2148x1158, mode Windowed.
+[2024.04.21-00.31.37:669][  1]LogViewport: Scene viewport resized to 2189x1158, mode Windowed.
+[2024.04.21-00.31.37:750][  2]LogViewport: Scene viewport resized to 2209x1158, mode Windowed.
+[2024.04.21-00.31.37:801][  3]LogViewport: Scene viewport resized to 2220x1158, mode Windowed.
+[2024.04.21-00.31.37:846][  4]LogViewport: Scene viewport resized to 2234x1158, mode Windowed.
+[2024.04.21-00.31.37:953][  5]LogViewport: Scene viewport resized to 2258x1158, mode Windowed.
+[2024.04.21-00.31.38:224][  6]LogViewport: Scene viewport resized to 2259x1158, mode Windowed.
+[2024.04.21-00.31.39:118][  7]LogViewport: Scene viewport resized to 2084x1158, mode Windowed.
+[2024.04.21-00.31.39:148][  8]LogViewport: Scene viewport resized to 2082x1158, mode Windowed.
+[2024.04.21-00.31.39:180][  9]LogViewport: Scene viewport resized to 2075x1158, mode Windowed.
+[2024.04.21-00.31.39:205][ 10]LogViewport: Scene viewport resized to 2074x1158, mode Windowed.
+[2024.04.21-00.31.39:235][ 11]LogViewport: Scene viewport resized to 2072x1158, mode Windowed.
+[2024.04.21-00.31.39:253][ 12]LogViewport: Scene viewport resized to 2071x1158, mode Windowed.
+[2024.04.21-00.31.39:272][ 13]LogViewport: Scene viewport resized to 2070x1158, mode Windowed.
+[2024.04.21-00.31.39:411][ 21]LogViewport: Scene viewport resized to 2068x1158, mode Windowed.
+[2024.04.21-00.31.39:428][ 22]LogViewport: Scene viewport resized to 2066x1158, mode Windowed.
+[2024.04.21-00.31.39:493][ 23]LogViewport: Scene viewport resized to 2053x1158, mode Windowed.
+[2024.04.21-00.31.39:513][ 24]LogViewport: Scene viewport resized to 2049x1158, mode Windowed.
+[2024.04.21-00.31.39:532][ 25]LogViewport: Scene viewport resized to 2043x1158, mode Windowed.
+[2024.04.21-00.31.39:549][ 26]LogViewport: Scene viewport resized to 2039x1158, mode Windowed.
+[2024.04.21-00.31.39:569][ 27]LogViewport: Scene viewport resized to 2032x1158, mode Windowed.
+[2024.04.21-00.31.39:586][ 28]LogViewport: Scene viewport resized to 2019x1158, mode Windowed.
+[2024.04.21-00.31.39:603][ 29]LogViewport: Scene viewport resized to 2007x1158, mode Windowed.
+[2024.04.21-00.31.39:623][ 30]LogViewport: Scene viewport resized to 2000x1158, mode Windowed.
+[2024.04.21-00.31.39:644][ 31]LogViewport: Scene viewport resized to 1994x1158, mode Windowed.
+[2024.04.21-00.31.39:662][ 32]LogViewport: Scene viewport resized to 1992x1158, mode Windowed.
+[2024.04.21-00.31.39:697][ 34]LogViewport: Scene viewport resized to 1989x1158, mode Windowed.
+[2024.04.21-00.31.39:713][ 35]LogViewport: Scene viewport resized to 1988x1158, mode Windowed.
+[2024.04.21-00.31.39:797][ 40]LogViewport: Scene viewport resized to 1987x1158, mode Windowed.
+[2024.04.21-00.31.40:192][ 62]LogViewport: Scene viewport resized to 1990x1158, mode Windowed.
+[2024.04.21-00.31.40:209][ 63]LogViewport: Scene viewport resized to 1993x1158, mode Windowed.
+[2024.04.21-00.31.40:249][ 64]LogViewport: Scene viewport resized to 2008x1158, mode Windowed.
+[2024.04.21-00.31.40:273][ 65]LogViewport: Scene viewport resized to 2016x1158, mode Windowed.
+[2024.04.21-00.31.40:291][ 66]LogViewport: Scene viewport resized to 2017x1158, mode Windowed.
+[2024.04.21-00.31.40:308][ 67]LogViewport: Scene viewport resized to 2019x1158, mode Windowed.
+[2024.04.21-00.31.40:328][ 68]LogViewport: Scene viewport resized to 2021x1158, mode Windowed.
+[2024.04.21-00.31.40:346][ 69]LogViewport: Scene viewport resized to 2024x1158, mode Windowed.
+[2024.04.21-00.31.40:496][ 78]LogViewport: Scene viewport resized to 2023x1158, mode Windowed.
+[2024.04.21-00.31.40:512][ 79]LogViewport: Scene viewport resized to 2024x1158, mode Windowed.
+[2024.04.21-00.31.40:556][ 80]LogViewport: Scene viewport resized to 2027x1158, mode Windowed.
+[2024.04.21-00.31.40:588][ 81]LogViewport: Scene viewport resized to 2029x1158, mode Windowed.
+[2024.04.21-00.31.40:621][ 83]LogViewport: Scene viewport resized to 2030x1158, mode Windowed.
+[2024.04.21-00.31.40:638][ 84]LogViewport: Scene viewport resized to 2032x1158, mode Windowed.
+[2024.04.21-00.31.40:654][ 85]LogViewport: Scene viewport resized to 2035x1158, mode Windowed.
+[2024.04.21-00.31.40:704][ 88]LogViewport: Scene viewport resized to 2037x1158, mode Windowed.
+[2024.04.21-00.31.40:754][ 90]LogViewport: Scene viewport resized to 2039x1158, mode Windowed.
+[2024.04.21-00.31.40:791][ 91]LogViewport: Scene viewport resized to 2041x1158, mode Windowed.
+[2024.04.21-00.31.40:808][ 92]LogViewport: Scene viewport resized to 2043x1158, mode Windowed.
+[2024.04.21-00.31.40:842][ 94]LogViewport: Scene viewport resized to 2044x1158, mode Windowed.
+[2024.04.21-00.31.40:859][ 95]LogViewport: Scene viewport resized to 2045x1158, mode Windowed.
+[2024.04.21-00.31.40:876][ 96]LogViewport: Scene viewport resized to 2047x1158, mode Windowed.
+[2024.04.21-00.31.40:943][100]LogViewport: Scene viewport resized to 2050x1158, mode Windowed.
+[2024.04.21-00.31.40:992][102]LogViewport: Scene viewport resized to 2052x1158, mode Windowed.
+[2024.04.21-00.31.42:267][177]LogViewport: Scene viewport resized to 2054x1158, mode Windowed.
+[2024.04.21-00.31.42:283][178]LogViewport: Scene viewport resized to 2055x1158, mode Windowed.
+[2024.04.21-00.31.42:329][179]LogViewport: Scene viewport resized to 2058x1158, mode Windowed.
+[2024.04.21-00.31.42:761][204]LogViewport: Scene viewport resized to 2057x1158, mode Windowed.
+[2024.04.21-00.32.14:179][ 82]LogNet: Browse: /Game/FirstOcean/L_MainMenu0
+[2024.04.21-00.32.14:179][ 82]LogLoad: LoadMap: /Game/FirstOcean/L_MainMenu0
+[2024.04.21-00.32.14:179][ 82]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu1
+[2024.04.21-00.32.14:180][ 82]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.32.14:180][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.32.14:203][ 82]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.32.14:207][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.04.21-00.32.14:222][ 82]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_MainMenu0'.
+[2024.04.21-00.32.14:223][ 82]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.32.14:223][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.32.14:224][ 82]LogAIModule: Creating AISystem for world L_MainMenu0
+[2024.04.21-00.32.14:224][ 82]LogPlayLevel: PIE: World Init took: (0.001587s)
+[2024.04.21-00.32.14:224][ 82]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.32.14:226][ 82]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu0.L_MainMenu0 up for play (max tick rate 60) at 2024.04.21-10.32.14
+[2024.04.21-00.32.14:226][ 82]LogWorld: Bringing up level for play took: 0.001803
+[2024.04.21-00.32.14:228][ 82]LogLoad: Took 0.049562 seconds to LoadMap(/Game/FirstOcean/L_MainMenu0)
+[2024.04.21-00.32.16:297][205]LogNet: Browse: /Game/FirstOcean/L_MainMenu1
+[2024.04.21-00.32.16:297][205]LogLoad: LoadMap: /Game/FirstOcean/L_MainMenu1
+[2024.04.21-00.32.16:297][205]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu0
+[2024.04.21-00.32.16:298][205]LogWorld: UWorld::CleanupWorld for L_MainMenu0, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.32.16:298][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.32.16:346][205]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.32.16:351][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.04.21-00.32.16:354][205]LogPlayLevel: Creating play world package: /Game/FirstOcean/UEDPIE_0_L_MainMenu1
+[2024.04.21-00.32.16:358][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003876s)
+[2024.04.21-00.32.16:358][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstOcean/L_MainMenu1.L_MainMenu1 to /Game/FirstOcean/UEDPIE_0_L_MainMenu1.L_MainMenu1 (0.003953s)
+[2024.04.21-00.32.16:358][205]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_MainMenu1'.
+[2024.04.21-00.32.16:358][205]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.32.16:358][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.32.16:359][205]LogAIModule: Creating AISystem for world L_MainMenu1
+[2024.04.21-00.32.16:359][205]LogPlayLevel: PIE: World Init took: (0.001472s)
+[2024.04.21-00.32.16:359][205]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.32.16:361][205]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu1.L_MainMenu1 up for play (max tick rate 60) at 2024.04.21-10.32.16
+[2024.04.21-00.32.16:361][205]LogWorld: Bringing up level for play took: 0.000663
+[2024.04.21-00.32.16:363][205]LogLoad: Took 0.065829 seconds to LoadMap(/Game/FirstOcean/UEDPIE_0_L_MainMenu1)
+[2024.04.21-00.32.29:427][987]LogNet: Browse: /Game/FirstOcean/L_MainMenu0
+[2024.04.21-00.32.29:427][987]LogLoad: LoadMap: /Game/FirstOcean/L_MainMenu0
+[2024.04.21-00.32.29:427][987]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu1
+[2024.04.21-00.32.29:428][987]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.32.29:428][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.32.29:449][987]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.32.29:453][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.04.21-00.32.29:468][987]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_MainMenu0'.
+[2024.04.21-00.32.29:469][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.32.29:469][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.32.29:470][987]LogAIModule: Creating AISystem for world L_MainMenu0
+[2024.04.21-00.32.29:470][987]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2024.04.21-00.32.29:470][987]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.32.29:472][987]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu0.L_MainMenu0 up for play (max tick rate 60) at 2024.04.21-10.32.29
+[2024.04.21-00.32.29:472][987]LogWorld: Bringing up level for play took: 0.001779
+[2024.04.21-00.32.29:475][987]LogLoad: Took 0.047311 seconds to LoadMap(/Game/FirstOcean/L_MainMenu0)
+[2024.04.21-00.32.30:878][ 70]LogNet: Browse: /Game/FirstOcean/L_MainMenu1
+[2024.04.21-00.32.30:878][ 70]LogLoad: LoadMap: /Game/FirstOcean/L_MainMenu1
+[2024.04.21-00.32.30:878][ 70]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu0
+[2024.04.21-00.32.30:878][ 70]LogWorld: UWorld::CleanupWorld for L_MainMenu0, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.32.30:879][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.32.30:902][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.32.30:906][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.04.21-00.32.30:909][ 70]LogPlayLevel: Creating play world package: /Game/FirstOcean/UEDPIE_0_L_MainMenu1
+[2024.04.21-00.32.30:912][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003783s)
+[2024.04.21-00.32.30:913][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstOcean/L_MainMenu1.L_MainMenu1 to /Game/FirstOcean/UEDPIE_0_L_MainMenu1.L_MainMenu1 (0.003849s)
+[2024.04.21-00.32.30:913][ 70]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_MainMenu1'.
+[2024.04.21-00.32.30:913][ 70]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.32.30:913][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.32.30:913][ 70]LogAIModule: Creating AISystem for world L_MainMenu1
+[2024.04.21-00.32.30:913][ 70]LogPlayLevel: PIE: World Init took: (0.001485s)
+[2024.04.21-00.32.30:913][ 70]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.32.30:915][ 70]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu1.L_MainMenu1 up for play (max tick rate 60) at 2024.04.21-10.32.30
+[2024.04.21-00.32.30:915][ 70]LogWorld: Bringing up level for play took: 0.000739
+[2024.04.21-00.32.30:918][ 70]LogLoad: Took 0.039900 seconds to LoadMap(/Game/FirstOcean/UEDPIE_0_L_MainMenu1)
+[2024.04.21-00.32.32:623][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-00.32.32:624][165]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu1
+[2024.04.21-00.32.32:624][165]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.32.32:624][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.32.32:632][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-00.32.32:638][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.32.32:662][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-00.32.32:662][165]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.21-00.32.32:662][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.21-00.32.32:665][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.21-00.32.32:677][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2024.04.21-00.32.32:713][166]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2024.04.21-00.39.59:200][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2024.04.21-00.39.59:214][939]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstOcean/L_MainMenu1' took 0.037
+[2024.04.21-00.39.59:215][939]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WB_MainMenu1] ([2] browsable assets)...
+[2024.04.21-00.39.59:220][939]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WB_MainMenu1.WB_MainMenu1]
+[2024.04.21-00.39.59:220][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WB_MainMenu1]
+[2024.04.21-00.39.59:236][939]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WB_MainMenu1_Auto3
+[2024.04.21-00.39.59:236][939]LogSavePackage: Moving 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/WB_MainMenu1_Auto3DE3064E34C10EA4153D024B8DF6A5B49.tmp' to 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/Autosaves/Game/Blueprints/WB_MainMenu1_Auto3.uasset'
+[2024.04.21-00.39.59:237][939]LogFileHelpers: Auto-saving content packages took 0.024
+[2024.04.21-00.45.28:215][139]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.45.28:269][140]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.45.50:350][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2024.04.21-00.45.53:818][ 52]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.21-00.45.53:882][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.04.21-00.45.53:910][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.04.21-00.45.53:936][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.21-00.46.01:010][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2024.04.21-00.46.06:216][337]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.21-00.47.21:627][527]BlueprintLog: New page: Compile WB_MainMenu1
+[2024.04.21-00.47.21:663][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.04.21-00.47.25:091][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-00.47.25:138][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_MainMenu1" FILE="C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/Blueprints/WB_MainMenu1.uasset" SILENT=true
+[2024.04.21-00.47.25:157][682]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_MainMenu1
+[2024.04.21-00.47.25:158][682]LogSavePackage: Moving 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Saved/WB_MainMenu10BAD61894DAF4859F095D8818D21CBC4.tmp' to 'C:/Users/sneep/OneDrive/Desktop/oceans/Tides-of-time/TidesofTime/Content/Blueprints/WB_MainMenu1.uasset'
+[2024.04.21-00.47.25:170][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 4.80 sec)
+[2024.04.21-00.47.25:173][682]AssetCheck: New page: Asset Save: WB_MainMenu1
+[2024.04.21-00.47.25:173][682]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_MainMenu1.WB_MainMenu1
+[2024.04.21-00.47.30:634][964]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-00.47.30:650][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-00.47.30:650][964]PIE: New page: PIE session: L_MainMenu1 (21 Apr 2024, 8:47:30 pm)
+[2024.04.21-00.47.30:650][964]LogPlayLevel: Creating play world package: /Game/FirstOcean/UEDPIE_0_L_MainMenu1
+[2024.04.21-00.47.30:654][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004015s)
+[2024.04.21-00.47.30:655][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstOcean/L_MainMenu1.L_MainMenu1 to /Game/FirstOcean/UEDPIE_0_L_MainMenu1.L_MainMenu1 (0.004077s)
+[2024.04.21-00.47.30:678][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2024.04.21-00.47.30:683][964]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.47.30:684][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.47.30:684][964]LogAIModule: Creating AISystem for world L_MainMenu1
+[2024.04.21-00.47.30:685][964]LogPlayLevel: PIE: World Init took: (0.001821s)
+[2024.04.21-00.47.30:685][964]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.21-00.47.30:685][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-00.47.30:685][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-00.47.30:685][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-00.47.30:685][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-00.47.30:685][964]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-00.47.30:685][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-00.47.30:685][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-00.47.30:685][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-00.47.30:686][964]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-00.47.30:686][964]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-00.47.30:686][964]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-00.47.30:689][964]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-00.47.30:761][964]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.21-00.47.30:761][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-00.47.30:761][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-00.47.30:761][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-00.47.30:762][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.21-00.47.30:762][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.04.21-00.47.30:766][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.21-00.47.30:766][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.21-00.47.30:766][964]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.21-00.47.30:766][964]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_MainMenu1'.
+[2024.04.21-00.47.30:766][964]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.21-00.47.30:768][964]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.47.30:769][964]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu1.L_MainMenu1 up for play (max tick rate 60) at 2024.04.21-10.47.30
+[2024.04.21-00.47.30:769][964]LogWorld: Bringing up level for play took: 0.000786
+[2024.04.21-00.47.30:773][964]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2024.04.21-00.47.30:776][964]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.21-00.47.30:776][964]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.21-00.47.30:776][964]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.21-00.47.30:776][964]PIE: Server logged in
+[2024.04.21-00.47.30:776][964]PIE: Play in editor total start time 0.127 seconds.
+[2024.04.21-00.47.51:968][223]LogNet: Browse: /Game/FirstOcean/L_MainMenu0
+[2024.04.21-00.47.51:970][223]LogLoad: LoadMap: /Game/FirstOcean/L_MainMenu0
+[2024.04.21-00.47.51:970][223]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu1
+[2024.04.21-00.47.51:971][223]LogWorld: UWorld::CleanupWorld for L_MainMenu1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.47.51:971][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.47.52:025][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.47.52:031][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2024.04.21-00.47.52:055][223]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_MainMenu0'.
+[2024.04.21-00.47.52:056][223]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.47.52:056][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.47.52:057][223]LogAIModule: Creating AISystem for world L_MainMenu0
+[2024.04.21-00.47.52:057][223]LogPlayLevel: PIE: World Init took: (0.002215s)
+[2024.04.21-00.47.52:057][223]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.47.52:060][223]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu0.L_MainMenu0 up for play (max tick rate 60) at 2024.04.21-10.47.52
+[2024.04.21-00.47.52:060][223]LogWorld: Bringing up level for play took: 0.002936
+[2024.04.21-00.47.52:064][223]LogLoad: Took 0.095448 seconds to LoadMap(/Game/FirstOcean/L_MainMenu0)
+[2024.04.21-00.47.53:726][319]LogNet: Browse: /Game/FirstOcean/FirstOcean
+[2024.04.21-00.47.53:728][319]LogLoad: LoadMap: /Game/FirstOcean/FirstOcean
+[2024.04.21-00.47.53:728][319]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu0
+[2024.04.21-00.47.53:728][319]LogWorld: UWorld::CleanupWorld for L_MainMenu0, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.47.53:728][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.47.53:750][319]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.47.53:753][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.04.21-00.47.53:872][319]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstOcean'.
+[2024.04.21-00.47.53:872][319]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.47.53:873][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.47.53:873][319]LogAIModule: Creating AISystem for world FirstOcean
+[2024.04.21-00.47.53:874][319]LogPlayLevel: PIE: World Init took: (0.001743s)
+[2024.04.21-00.47.53:874][319]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.21-00.47.53:875][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/FirstOcean/UEDPIE_0_FirstOcean.LandscapeNaniteMesh_3 being ready before playing
+[2024.04.21-00.47.53:962][319]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_FirstOcean.FirstOcean up for play (max tick rate 60) at 2024.04.21-10.47.53
+[2024.04.21-00.47.53:964][319]LogWorld: Bringing up level for play took: 0.090010
+[2024.04.21-00.47.53:973][319]LogTemp: BP_DrawingBoard_Snow_C_0 Registered
+[2024.04.21-00.47.53:979][319]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.21-00.47.53:979][319]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.21-00.47.53:980][319]LogTemp: foot_l Registered
+[2024.04.21-00.47.53:980][319]LogTemp: Foot_L1 Registered
+[2024.04.21-00.47.53:980][319]LogLoad: Took 0.252967 seconds to LoadMap(/Game/FirstOcean/FirstOcean)
+[2024.04.21-00.48.02:272][666]LogChaos: Warning: Degenerate triangle 190107: (2.947193 -0.286418 -0.221582) (2.951668 -0.300438 -0.225672) (2.972047 -0.276782 -0.235228)
+[2024.04.21-00.48.02:272][666]LogChaos: Warning: Degenerate triangle 190107: (2.947193 -0.286418 -0.221582) (2.951668 -0.300438 -0.225672) (2.972047 -0.276782 -0.235228)
+[2024.04.21-00.48.02:295][667]LogChaos: Warning: Degenerate triangle 178770: (1.741961 0.027901 0.710694) (1.707112 0.008439 0.733137) (1.718053 -0.001270 0.725422)
+[2024.04.21-00.48.02:295][667]LogChaos: Warning: Degenerate triangle 178770: (1.741961 0.027901 0.710694) (1.707112 0.008439 0.733137) (1.718053 -0.001270 0.725422)
+[2024.04.21-00.48.02:318][668]LogChaos: Warning: Degenerate triangle 171369: (0.801058 0.258512 1.099033) (0.804494 0.304403 1.092516) (0.764152 0.287007 1.098211)
+[2024.04.21-00.48.02:318][668]LogChaos: Warning: Degenerate triangle 171369: (0.801058 0.258512 1.099033) (0.804494 0.304403 1.092516) (0.764152 0.287007 1.098211)
+[2024.04.21-00.48.02:318][668]LogChaos: Warning: Degenerate triangle 170688: (0.757441 0.072729 1.118619) (0.737142 0.094752 1.118647) (0.706867 0.058878 1.120865)
+[2024.04.21-00.48.02:341][669]LogChaos: Warning: Degenerate triangle 103757: (-0.176410 0.519526 1.198221) (-0.205573 0.468560 1.208656) (-0.173842 0.479602 1.203702)
+[2024.04.21-00.48.02:342][669]LogChaos: Warning: Degenerate triangle 103757: (-0.176410 0.519526 1.198221) (-0.205573 0.468560 1.208656) (-0.173842 0.479602 1.203702)
+[2024.04.21-00.48.02:342][669]LogChaos: Warning: Degenerate triangle 103710: (-0.205573 0.468560 1.208656) (-0.241987 0.460402 1.207696) (-0.271977 0.430691 1.207472)
+[2024.04.21-00.48.02:365][670]LogChaos: Warning: Degenerate triangle 103043: (-0.881152 0.671166 1.077777) (-0.912714 0.704607 1.063177) (-0.917086 0.656548 1.069272)
+[2024.04.21-00.48.02:365][670]LogChaos: Warning: Degenerate triangle 103043: (-0.881152 0.671166 1.077777) (-0.912714 0.704607 1.063177) (-0.917086 0.656548 1.069272)
+[2024.04.21-00.48.02:388][671]LogChaos: Warning: Degenerate triangle 100044: (-1.434607 0.701529 0.881005) (-1.460127 0.758705 0.863770) (-1.460934 0.706922 0.876179)
+[2024.04.21-00.48.02:389][671]LogChaos: Warning: Degenerate triangle 100044: (-1.434607 0.701529 0.881005) (-1.460127 0.758705 0.863770) (-1.460934 0.706922 0.876179)
+[2024.04.21-00.48.02:419][672]LogChaos: Warning: Degenerate triangle 99434: (-1.572537 0.799867 0.828493) (-1.567577 0.837064 0.825339) (-1.587880 0.848499 0.816231)
+[2024.04.21-00.48.02:419][672]LogChaos: Warning: Degenerate triangle 99434: (-1.572537 0.799867 0.828493) (-1.567577 0.837064 0.825339) (-1.587880 0.848499 0.816231)
+[2024.04.21-00.48.02:457][673]LogChaos: Warning: Degenerate triangle 99403: (-1.617421 0.785239 0.808816) (-1.631017 0.846123 0.795578) (-1.646663 0.787576 0.789742)
+[2024.04.21-00.48.02:458][673]LogChaos: Warning: Degenerate triangle 99403: (-1.617421 0.785239 0.808816) (-1.631017 0.846123 0.795578) (-1.646663 0.787576 0.789742)
+[2024.04.21-00.48.02:490][674]LogChaos: Warning: Degenerate triangle 103029: (-0.909439 0.740488 1.060089) (-0.922218 0.747635 1.053960) (-0.912714 0.704607 1.063177)
+[2024.04.21-00.48.02:490][674]LogChaos: Warning: Degenerate triangle 103029: (-0.909439 0.740488 1.060089) (-0.922218 0.747635 1.053960) (-0.912714 0.704607 1.063177)
+[2024.04.21-00.48.02:520][675]LogChaos: Warning: Degenerate triangle 104258: (-0.201210 0.683237 1.174205) (-0.191239 0.726831 1.164409) (-0.229081 0.706836 1.170475)
+[2024.04.21-00.48.02:520][675]LogChaos: Warning: Degenerate triangle 104258: (-0.201210 0.683237 1.174205) (-0.191239 0.726831 1.164409) (-0.229081 0.706836 1.170475)
+[2024.04.21-00.48.02:520][675]LogChaos: Warning: Degenerate triangle 104216: (-0.215961 0.763609 1.158611) (-0.223333 0.813268 1.152287) (-0.255622 0.772235 1.156575)
+[2024.04.21-00.48.02:544][676]LogChaos: Warning: Degenerate triangle 197179: (0.253856 0.773598 1.121842) (0.255390 0.821447 1.114152) (0.233818 0.793235 1.111744)
+[2024.04.21-00.48.02:544][676]LogChaos: Warning: Degenerate triangle 197179: (0.253856 0.773598 1.121842) (0.255390 0.821447 1.114152) (0.233818 0.793235 1.111744)
+[2024.04.21-00.48.02:544][676]LogChaos: Warning: Degenerate triangle 196938: (0.074651 0.806446 1.039026) (0.098367 0.836210 1.037501) (0.067902 0.831176 1.037049)
+[2024.04.21-00.48.02:565][677]LogChaos: Warning: Degenerate triangle 197179: (0.253856 0.773598 1.121842) (0.255390 0.821447 1.114152) (0.233818 0.793235 1.111744)
+[2024.04.21-00.48.02:566][677]LogChaos: Warning: Degenerate triangle 197179: (0.253856 0.773598 1.121842) (0.255390 0.821447 1.114152) (0.233818 0.793235 1.111744)
+[2024.04.21-00.48.02:566][677]LogChaos: Warning: Degenerate triangle 196938: (0.074651 0.806446 1.039026) (0.098367 0.836210 1.037501) (0.067902 0.831176 1.037049)
+[2024.04.21-00.48.02:588][678]LogChaos: Warning: Degenerate triangle 104290: (-0.139676 0.798686 1.138730) (-0.172948 0.849672 1.140399) (-0.169825 0.801391 1.147722)
+[2024.04.21-00.48.02:588][678]LogChaos: Warning: Degenerate triangle 104290: (-0.139676 0.798686 1.138730) (-0.172948 0.849672 1.140399) (-0.169825 0.801391 1.147722)
+[2024.04.21-00.48.02:589][678]LogChaos: Warning: Degenerate triangle 104216: (-0.215961 0.763609 1.158611) (-0.223333 0.813268 1.152287) (-0.255622 0.772235 1.156575)
+[2024.04.21-00.48.02:612][679]LogChaos: Warning: Degenerate triangle 104216: (-0.215961 0.763609 1.158611) (-0.223333 0.813268 1.152287) (-0.255622 0.772235 1.156575)
+[2024.04.21-00.48.02:612][679]LogChaos: Warning: Degenerate triangle 104216: (-0.215961 0.763609 1.158611) (-0.223333 0.813268 1.152287) (-0.255622 0.772235 1.156575)
+[2024.04.21-00.48.02:612][679]LogChaos: Warning: Degenerate triangle 104216: (-0.215961 0.763609 1.158611) (-0.223333 0.813268 1.152287) (-0.255622 0.772235 1.156575)
+[2024.04.21-00.48.02:634][680]LogChaos: Warning: Degenerate triangle 104229: (-0.352822 0.716627 1.146842) (-0.324536 0.739661 1.151654) (-0.359926 0.755352 1.136847)
+[2024.04.21-00.48.02:634][680]LogChaos: Warning: Degenerate triangle 104229: (-0.352822 0.716627 1.146842) (-0.324536 0.739661 1.151654) (-0.359926 0.755352 1.136847)
+[2024.04.21-00.48.02:657][681]LogChaos: Warning: Degenerate triangle 102810: (-0.773446 0.592095 1.101068) (-0.777886 0.630976 1.091534) (-0.799148 0.636899 1.090032)
+[2024.04.21-00.48.02:657][681]LogChaos: Warning: Degenerate triangle 102810: (-0.773446 0.592095 1.101068) (-0.777886 0.630976 1.091534) (-0.799148 0.636899 1.090032)
+[2024.04.21-00.48.02:680][682]LogChaos: Warning: Degenerate triangle 102631: (-0.848998 0.543897 1.105872) (-0.836500 0.588769 1.098113) (-0.868209 0.600588 1.090781)
+[2024.04.21-00.48.02:680][682]LogChaos: Warning: Degenerate triangle 102631: (-0.848998 0.543897 1.105872) (-0.836500 0.588769 1.098113) (-0.868209 0.600588 1.090781)
+[2024.04.21-00.48.02:703][683]LogChaos: Warning: Degenerate triangle 102641: (-0.890383 0.558552 1.091785) (-0.937104 0.589937 1.069842) (-0.928035 0.563989 1.077167)
+[2024.04.21-00.48.02:704][683]LogChaos: Warning: Degenerate triangle 102641: (-0.890383 0.558552 1.091785) (-0.937104 0.589937 1.069842) (-0.928035 0.563989 1.077167)
+[2024.04.21-00.48.02:726][684]LogChaos: Warning: Degenerate triangle 102594: (-0.949148 0.629881 1.061304) (-0.964498 0.622505 1.054937) (-0.957970 0.574999 1.061618)
+[2024.04.21-00.48.02:726][684]LogChaos: Warning: Degenerate triangle 102594: (-0.949148 0.629881 1.061304) (-0.964498 0.622505 1.054937) (-0.957970 0.574999 1.061618)
+[2024.04.21-00.48.02:748][685]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.02:748][685]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.02:769][686]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.02:769][686]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.02:795][687]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:795][687]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:816][688]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:816][688]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:838][689]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:838][689]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:861][690]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:861][690]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:881][691]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:881][691]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:904][692]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:904][692]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:924][693]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:924][693]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:946][694]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:947][694]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:968][695]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:968][695]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:987][696]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.02:987][696]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:008][697]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:008][697]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:029][698]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:029][698]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:050][699]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:050][699]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:072][700]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:072][700]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:093][701]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:093][701]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:112][702]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:112][702]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:133][703]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:133][703]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:154][704]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:154][704]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:174][705]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:174][705]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:196][706]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:196][706]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:217][707]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:217][707]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:239][708]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:239][708]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:257][709]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:257][709]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:276][710]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:276][710]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:295][711]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:295][711]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:313][712]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:313][712]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:332][713]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:332][713]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:352][714]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:352][714]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:370][715]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:370][715]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:390][716]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:390][716]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:408][717]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:408][717]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:428][718]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:428][718]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:449][719]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:449][719]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:467][720]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:468][720]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:486][721]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:486][721]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:504][722]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:504][722]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:524][723]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:524][723]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:543][724]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:543][724]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:562][725]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:562][725]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:584][726]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:584][726]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:602][727]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:602][727]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:622][728]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:622][728]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:641][729]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:641][729]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:659][730]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:659][730]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:680][731]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:680][731]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:698][732]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:698][732]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:716][733]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:716][733]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:735][734]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:735][734]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:754][735]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:754][735]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.03:774][736]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:774][736]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:795][737]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:795][737]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:813][738]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:813][738]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:832][739]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:832][739]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:850][740]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:850][740]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:870][741]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:870][741]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:888][742]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:888][742]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:908][743]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:908][743]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:926][744]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:926][744]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:945][745]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:945][745]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:964][746]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:964][746]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:982][747]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.03:982][747]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:000][748]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:000][748]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:019][749]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:019][749]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:038][750]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:038][750]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:059][751]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:059][751]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:077][752]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:077][752]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:096][753]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:096][753]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:115][754]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:115][754]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:134][755]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:134][755]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:154][756]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:154][756]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:174][757]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:174][757]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:191][758]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:191][758]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:209][759]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:209][759]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:228][760]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:228][760]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:247][761]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:247][761]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:266][762]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:266][762]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:285][763]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:285][763]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:304][764]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:304][764]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:323][765]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:323][765]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:344][766]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:344][766]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:364][767]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:364][767]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:383][768]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:383][768]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:402][769]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:402][769]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:421][770]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:421][770]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:440][771]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:440][771]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:458][772]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:458][772]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:477][773]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:477][773]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:498][774]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:498][774]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:517][775]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:517][775]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:539][776]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:539][776]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:558][777]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:559][777]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:578][778]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:578][778]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:596][779]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:596][779]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:616][780]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:616][780]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:635][781]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:635][781]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:654][782]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:654][782]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:674][783]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:674][783]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:693][784]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:693][784]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:711][785]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:711][785]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:731][786]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:731][786]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:750][787]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:750][787]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:769][788]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:770][788]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:789][789]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:789][789]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.04:808][790]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:808][790]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:828][791]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:828][791]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:846][792]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:846][792]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:866][793]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:866][793]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:886][794]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:886][794]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:905][795]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:905][795]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:924][796]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:924][796]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:941][797]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:941][797]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:960][798]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:961][798]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:978][799]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:978][799]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:997][800]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.04:997][800]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.05:016][801]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:016][801]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:035][802]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:035][802]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:055][803]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.05:055][803]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.05:074][804]LogChaos: Warning: Degenerate triangle 99616: (-1.329374 0.441907 0.942381) (-1.343539 0.450946 0.940371) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:074][804]LogChaos: Warning: Degenerate triangle 99616: (-1.329374 0.441907 0.942381) (-1.343539 0.450946 0.940371) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:093][805]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:093][805]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:112][806]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:112][806]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:131][807]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:131][807]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:150][808]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:150][808]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:170][809]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:170][809]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:189][810]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:189][810]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:209][811]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:209][811]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:228][812]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:230][812]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:248][813]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:248][813]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:267][814]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:267][814]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:288][815]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:288][815]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:307][816]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:307][816]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:327][817]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:327][817]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:349][818]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:349][818]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:368][819]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:368][819]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:388][820]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:388][820]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:407][821]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:407][821]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:425][822]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:425][822]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:444][823]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:444][823]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:463][824]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:463][824]LogChaos: Warning: Degenerate triangle 99603: (-1.343539 0.450946 0.940371) (-1.341924 0.490165 0.931643) (-1.364291 0.495485 0.928985)
+[2024.04.21-00.48.05:482][825]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:482][825]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:501][826]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:501][826]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:521][827]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:521][827]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:543][828]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:543][828]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:562][829]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:562][829]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:581][830]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:581][830]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:600][831]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:600][831]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:620][832]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:620][832]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:641][833]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:641][833]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:660][834]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:660][834]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:680][835]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:680][835]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:698][836]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:698][836]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:716][837]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:716][837]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:736][838]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:736][838]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:755][839]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:755][839]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:773][840]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:773][840]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:792][841]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:792][841]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:809][842]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:809][842]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:828][843]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:828][843]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:846][844]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:847][844]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:864][845]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:864][845]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:884][846]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:884][846]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:903][847]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:904][847]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:922][848]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:922][848]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:942][849]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:942][849]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:961][850]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:961][850]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:981][851]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:981][851]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:998][852]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.05:998][852]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.06:019][853]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.06:019][853]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.06:037][854]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.06:037][854]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.06:056][855]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.06:056][855]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.06:075][856]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.06:075][856]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.06:093][857]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.06:093][857]LogChaos: Warning: Degenerate triangle 102610: (-0.994835 0.522236 1.039103) (-0.978558 0.540961 1.050253) (-0.987386 0.589753 1.041740)
+[2024.04.21-00.48.06:114][858]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.06:114][858]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.06:133][859]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.06:133][859]LogChaos: Warning: Degenerate triangle 99615: (-1.343539 0.450946 0.940371) (-1.369083 0.418488 0.944773) (-1.340579 0.397380 0.953353)
+[2024.04.21-00.48.29:532][906]LogLevelSequence: Starting new camera cut: 'CineCameraActor_0'
+[2024.04.21-00.48.34:538][144]LogNet: Browse: /Game/FirstOcean/L_MainMenu0
+[2024.04.21-00.48.34:538][144]LogLoad: LoadMap: /Game/FirstOcean/L_MainMenu0
+[2024.04.21-00.48.34:538][144]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_FirstOcean
+[2024.04.21-00.48.34:539][144]LogTemp: foot_l UnRegistered
+[2024.04.21-00.48.34:539][144]LogTemp: Foot_L1 UnRegistered
+[2024.04.21-00.48.34:540][144]LogTemp: BP_DrawingBoard_Snow_C_0 UnRegistered
+[2024.04.21-00.48.34:541][144]LogWorld: UWorld::CleanupWorld for FirstOcean, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.48.34:543][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.48.34:601][144]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.48.34:610][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.04.21-00.48.34:627][144]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_MainMenu0'.
+[2024.04.21-00.48.34:627][144]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.48.34:628][144]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.48.34:629][144]LogAIModule: Creating AISystem for world L_MainMenu0
+[2024.04.21-00.48.34:629][144]LogPlayLevel: PIE: World Init took: (0.001632s)
+[2024.04.21-00.48.34:629][144]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.04.21-00.48.34:630][144]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_L_MainMenu0.L_MainMenu0 up for play (max tick rate 60) at 2024.04.21-10.48.34
+[2024.04.21-00.48.34:632][144]LogWorld: Bringing up level for play took: 0.001816
+[2024.04.21-00.48.34:634][144]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.21-00.48.34:634][144]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.04.21-00.48.34:634][144]LogLoad: Took 0.095855 seconds to LoadMap(/Game/FirstOcean/L_MainMenu0)
+[2024.04.21-00.48.38:237][359]LogNet: Browse: /Game/FirstOcean/FirstOcean
+[2024.04.21-00.48.38:238][359]LogLoad: LoadMap: /Game/FirstOcean/FirstOcean
+[2024.04.21-00.48.38:238][359]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_L_MainMenu0
+[2024.04.21-00.48.38:238][359]LogWorld: UWorld::CleanupWorld for L_MainMenu0, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.48.38:238][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.48.38:262][359]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-00.48.38:266][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.04.21-00.48.38:383][359]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstOcean'.
+[2024.04.21-00.48.38:383][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-00.48.38:383][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-00.48.38:383][359]LogAIModule: Creating AISystem for world FirstOcean
+[2024.04.21-00.48.38:385][359]LogPlayLevel: PIE: World Init took: (0.001658s)
+[2024.04.21-00.48.38:385][359]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.21-00.48.38:386][359]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/FirstOcean/UEDPIE_0_FirstOcean.LandscapeNaniteMesh_3 being ready before playing
+[2024.04.21-00.48.38:473][359]LogWorld: Bringing World /Game/FirstOcean/UEDPIE_0_FirstOcean.FirstOcean up for play (max tick rate 60) at 2024.04.21-10.48.38
+[2024.04.21-00.48.38:475][359]LogWorld: Bringing up level for play took: 0.089101
+[2024.04.21-00.48.38:483][359]LogTemp: BP_DrawingBoard_Snow_C_0 Registered
+[2024.04.21-00.48.38:488][359]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.21-00.48.38:488][359]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.21-00.48.38:488][359]LogTemp: foot_l Registered
+[2024.04.21-00.48.38:488][359]LogTemp: Foot_L1 Registered
+[2024.04.21-00.48.38:489][359]LogLoad: Took 0.251272 seconds to LoadMap(/Game/FirstOcean/FirstOcean)
+[2024.04.21-00.49.40:906][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-00.49.40:906][  7]LogWorld: BeginTearingDown for /Game/FirstOcean/UEDPIE_0_FirstOcean
+[2024.04.21-00.49.40:906][  7]LogTemp: BP_DrawingBoard_Snow_C_0 UnRegistered
+[2024.04.21-00.49.40:906][  7]LogTemp: foot_l UnRegistered
+[2024.04.21-00.49.40:906][  7]LogTemp: Foot_L1 UnRegistered
+[2024.04.21-00.49.40:906][  7]LogWorld: UWorld::CleanupWorld for FirstOcean, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-00.49.40:908][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.49.40:915][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-00.49.40:923][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-00.49.40:951][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-00.49.40:951][  7]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.21-00.49.40:951][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.21-00.49.40:956][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.21-00.49.40:973][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.04.21-00.49.41:027][  8]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2024.04.21-00.49.44:052][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
