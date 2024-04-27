@@ -125,6 +125,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F7957B18447AF1D187B34DD401B3F98EA29D0FFB",
+			"Assets": [
+				"/Landmass/Landscape/BlueprintBrushes/Materials/CacheDistanceField"
+			]
+		},
+		{
 			"ShaderMapHash": "ED3C7F18149F614CCCBAF4C23342728E4306A946",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
@@ -153,6 +159,12 @@
 			"ShaderMapHash": "3BB43C1BD1DE8D66FCE4D7F47FA7E493DD8D0038",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "2B8C771C497DE2E24DB69ECCF395E069166E84E7",
+			"Assets": [
+				"/Water/Materials/WaterSurface/LODs/Water_Material_Ocean_LOD"
 			]
 		},
 		{
@@ -207,6 +219,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0E5EC725FE05619F8CB60731EE8322F974006A0D",
+			"Assets": [
+				"/Landmass/DistanceFields/Materials/JumpFloodStep"
+			]
+		},
+		{
 			"ShaderMapHash": "6B087627966B66EC444186BFB3E28A0A5A44FB81",
 			"Assets": [
 				"/Interchange/gltf/M_ClearCoat"
@@ -219,6 +237,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9759D72839170241C186AFAB360F5E1902666B1A",
+			"Assets": [
+				"/Landmass/Landscape/BlueprintBrushes/Materials/RenderSplineDepths"
+			]
+		},
+		{
 			"ShaderMapHash": "355CBB2B1CF9EC8816B876AEDAABE3A4A4BB9560",
 			"Assets": [
 				"/Game/LUSH_StylizedEnvironmentSet/_SharedAssets/Materials/M_Grass_Base",
@@ -226,6 +250,12 @@
 				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/Materials/MI_Grass_01_overview1",
 				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/Materials/MI_Grass_01_overview2",
 				"/Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/Materials/MI_Grass_Tiny_A_overview"
+			]
+		},
+		{
+			"ShaderMapHash": "96A2A62D43F80B825721036D5EA084F11F127FAC",
+			"Assets": [
+				"/Water/Materials/Brushes/MeshBrush_Width"
 			]
 		},
 		{
@@ -257,6 +287,18 @@
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "64CAF4397CB8828E6F0DEFB9BB9282F0FB1E26DD",
+			"Assets": [
+				"/Landmass/DistanceFields/Materials/DetectEdges"
+			]
+		},
+		{
+			"ShaderMapHash": "53538A3B4D6862F24F9E2783331763C05282BE51",
+			"Assets": [
+				"/Game/FirstOcean/CrabRave"
 			]
 		},
 		{
@@ -293,6 +335,12 @@
 			"ShaderMapHash": "F4285F415220BEE49EBF065B041B2C8323C02DAA",
 			"Assets": [
 				"/InteractiveWorld/Materials/BrushMaterials/RayTrace/M_RayTracing_Sphere"
+			]
+		},
+		{
+			"ShaderMapHash": "B1EC874276FEDE25489581C5F11F55B3732FD965",
+			"Assets": [
+				"/Water/Materials/PostProcessing/M_UnderWater_PostProcess_Volume"
 			]
 		},
 		{
@@ -397,6 +445,7 @@
 		{
 			"ShaderMapHash": "3A1D6C5DAC87D069998CC547944C86557958BFD3",
 			"Assets": [
+				"/Game/3D_Models/AttackAnimation/Material_001",
 				"/Game/Characters/Material_001"
 			]
 		},
@@ -473,6 +522,18 @@
 			"ShaderMapHash": "D0CAB370B33CE7B7A3D3ED890BAF3FE11FEFAFBC",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "693410736AC3307CEF72D63698BA48E6DA124DB6",
+			"Assets": [
+				"/Water/Materials/HLOD/HLODWater"
+			]
+		},
+		{
+			"ShaderMapHash": "EA6E1D745B301AB6E613D3FE6286743C42CADD09",
+			"Assets": [
+				"/Water/Materials/Brushes/MeshBrush_Angle"
 			]
 		},
 		{
@@ -567,6 +628,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "028BF18B35EC3462CB0C5931E6A22DE51651AE20",
+			"Assets": [
+				"/Water/Materials/Brushes/MeshBrush_Weightmap"
+			]
+		},
+		{
 			"ShaderMapHash": "D674888DB57FDEEF69631175192661BDE7DBB083",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
@@ -582,6 +649,12 @@
 			"ShaderMapHash": "D0B27E91A8140BCA61EFE5503623AE0F890A2F05",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "5FCE0C97A0B2007CA2518B166BB62C89C82A1FF7",
+			"Assets": [
+				"/Landmass/DistanceFields/Materials/BlurEdges"
 			]
 		},
 		{
@@ -643,6 +716,12 @@
 			"Assets": [
 				"/Game/MSPresets/M_MS_Decal_Material/M_MS_Decal_Material",
 				"/Game/MSPresets/M_MS_Decal_Material_VT/M_MS_Decal_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "0669FA9D1F9480B008BFF75B253C51FBA4BE8B13",
+			"Assets": [
+				"/Water/Materials/Brushes/MeshBrush_Island"
 			]
 		},
 		{
@@ -714,6 +793,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F30150ACFC3FEEAF7DB41FEEE18E68E6E4D27BFD",
+			"Assets": [
+				"/Water/Materials/Brushes/CanvasDrawing"
+			]
+		},
+		{
+			"ShaderMapHash": "9D0028AFF525D602896DCD31077C5B55E38A58B7",
+			"Assets": [
+				"/Water/Materials/WaterSurface/Water_FarMesh"
+			]
+		},
+		{
 			"ShaderMapHash": "5D59F2AFE172CD4D5D5F1AFE28A9057CDC84329D",
 			"Assets": [
 				"/Game/LUSH_StylizedEnvironmentSet/_SharedAssets/Materials/M_Stylized_Sky"
@@ -756,6 +847,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F30CBDBBCB16D43B6E5B26D1E68F5ED2F8BCE163",
+			"Assets": [
+				"/Water/Materials/WaterSurface/Water_Material",
+				"/Water/Materials/WaterSurface/Water_Material_Inst"
+			]
+		},
+		{
 			"ShaderMapHash": "54FCD6BEFB332A72E07D4504D8F7E3AA323B8692",
 			"Assets": [
 				"/InteractiveWorld/Materials/DrawingBoardMaterials/SnowSimulateMaterials/SimulateMaterials/M_RT_DrawEdge_Simple"
@@ -777,6 +875,12 @@
 			"ShaderMapHash": "725469C4354A11A73BD819823A0C84B01C7C2331",
 			"Assets": [
 				"/InteractiveWorld/EditorWidgets/DebugUI/Materials/M_UI_Debug"
+			]
+		},
+		{
+			"ShaderMapHash": "2C5FEEC435E58BD4664154CE95C8CE61366ECB32",
+			"Assets": [
+				"/Game/FX/M_PortalEffect"
 			]
 		},
 		{
@@ -882,7 +986,8 @@
 				"/Engine/VREditor/TransformGizmo/Xray",
 				"/Game/3D_Models/Material_001",
 				"/Game/3D_Models/Material_002",
-				"/Game/3D_Models/reed-coral/source/01_-_Default"
+				"/Game/Blueprints/Color_J06",
+				"/Game/Blueprints/Color_M00"
 			]
 		},
 		{
@@ -933,6 +1038,12 @@
 			"Assets": [
 				"/Game/MSPresets/M_MS_ImperfectionDecal_Material/M_MS_ImperfectionDecal_Material",
 				"/Game/MSPresets/M_MS_ImperfectionDecal_Material_VT/M_MS_ImperfectionDecal_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "4426E6E9D87693D5773CFE5AB0D45A003EBC7639",
+			"Assets": [
+				"/Water/Materials/WaterSurface/Water_Material_Ocean"
 			]
 		},
 		{
@@ -996,6 +1107,12 @@
 			"ShaderMapHash": "9F7AA6FD9E1FB9EC7BC35C7BCF6EB83B7AA3F46F",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C8C4FAFF48A382EF022EAC917A95F9F905DFC61D",
+			"Assets": [
+				"/Water/Materials/Brushes/CompositeWaterBodyTexture"
 			]
 		}
 	]
